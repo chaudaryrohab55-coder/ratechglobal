@@ -99,10 +99,11 @@ export const TEAM: TeamMember[] = [
     quote: "Marketing isn't about being everywhere — it's about the right message reaching the right buyer at the right moment.",
     languages: ["English", "Urdu"],
     stars: 5,
-    is_public: true,
-    /* ──────────────────────── 4. Mirza shahzad saleem ──────────────────────── */
+        is_public: true,
   },
-  slug: "mirza-shahzad-saleem",
+  /* ──────────────────────── 4. Mirza shahzad saleem ──────────────────────── */
+  {
+    slug: "mirza-shahzad-saleem",
     full_name: "Mirza Shahzad Saleem",
     title: "Lead Generation Specialist",
     level: "Senior",

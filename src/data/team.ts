@@ -7,9 +7,8 @@
  * list is used only to seed the database the first time.
  *
  * ORDER:
- * 1. Muhammad Haseeb – Founder & CEO
- * 2. Mirza Shahzad Saleem – Co-Founder & Director of Operations
- * 3. Rohab Abdullah
+ * 1. Muhammad Haseeb – Co-Founder & Director of Operations
+ * 2. Mirza Shahzad Saleem – leads 
  * 4. Malaika Farooq
  * 5. Arooba Shafique
  * 6. Nafia Aziz
@@ -44,17 +43,47 @@ export interface TeamMember {
 export const TEAM: TeamMember[] = [
   /* ──────────────────────── 1. FOUNDER ──────────────────────── */
   {
-    slug: "muhammad-haseeb",
-    full_name: "Muhammad Haseeb",
+    slug: "rohab-abdullah",
+    full_name: "Rohab Abdullah",
     title: "Founder & CEO",
     level: "Lead",
-    bio: "Muhammad Haseeb has been working in digital marketing since 2018 — first building hands-on experience solo, then founding Ratech Global in 2025 as a full-service agency with a growing, dedicated team. He leads growth strategy, client success, and the team behind campaigns that have delivered measurable results for businesses across Pakistan, the UAE, Qatar, Saudi Arabia, the UK and the USA. His approach is simple: understand the client's real business goal first, then engineer the marketing and technology to hit it — no vanity metrics, just outcomes that show up in revenue.",
+    bio: "Rohab Abdullah is a digital entrepreneur and the CEO of Ragoods.store, specialising in digital marketing, lead generation, brand growth and eCommerce. He helps businesses attract high-quality leads, increase sales, and build a strong online presence through data-driven marketing strategies. His work spans Meta Ads, social media and performance marketing, Shopify and WordPress development, sales-funnel optimisation and brand strategy — all pointed at one outcome: helping businesses grow faster, generate consistent revenue, and build brands that stand out in a crowded digital marketplace.",
+    photo_url: "/team/rohab-abdullah.png",
+    photo_position: "top",
+    tagline: "Building growth systems that turn ad spend into real revenue.",
+    location: "Sahiwal, Pakistan",
+    experience: "5+ years (Agency since 2025)",
+    email: "ratechglobal@gmail.com",
+    skills: ["Growth Strategy", "Paid Ads", "Team Leadership", "Client Success", "Meta Ads", "Google Ads"],
+    stats: [
+      { label: "Businesses Served", value: "40+" },
+      { label: "Countries", value: "6" },
+      { label: "Client Revenue Driven", value: "$50K+" },
+    ],
+    expertise: [
+      { title: "Growth Strategy", detail: "Maps the full funnel — from first ad impression to closed sale — and builds the system to move people through it profitably." },
+      { title: "Paid Advertising", detail: "Plans and scales Meta & Google Ads campaigns focused on ROAS, not reach, across multiple international markets." },
+      { title: "Team Leadership", detail: "Leads a multidisciplinary team of developers, marketers and designers to deliver work that clients actually come back for." },
+    ],
+    projects: ["40+ businesses across Pakistan, UAE, Qatar, KSA, UK & USA", "eCommerce & Shopify scaling campaigns", "Lead-generation systems for service businesses"],
+    quote: "Marketing isn't about being everywhere — it's about the right message reaching the right buyer at the right moment.",
+    languages: ["English", "Urdu"],
+    stars: 5,
+    is_public: true,
+  },
+  /* ──────────────────────── 2. CO-FOUNDER ──────────────────────── */
+  {
+   slug: "muhammad-haseeb",
+    full_name: "Muhammad Haseeb",
+    title: "Co-Founder",
+    level: "Lead",
+    bio: "Muhammad Haseeb has been working in digital marketing since 2018 — first building hands-on experience solo, then co-founding Ratech Global in 2025 as a full-service agency with a growing, dedicated team. He leads growth strategy, client success, and the team behind campaigns that have delivered measurable results for businesses across Pakistan, the UAE, Qatar, Saudi Arabia, the UK and the USA. His approach is simple: understand the client's real business goal first, then engineer the marketing and technology to hit it — no vanity metrics, just outcomes that show up in revenue.",
     photo_url: "/team/muhammad-haseeb.png",
     photo_position: "top",
     tagline: "Building growth systems that turn ad spend into real revenue.",
     location: "Sahiwal, Pakistan",
     experience: "8+ years (Agency since 2025)",
-    email: "haadinglobal@gmail.com",
+    email: "ratechglobal@gmail.com",
     skills: ["Growth Strategy", "Paid Ads", "Team Leadership", "Client Success", "Meta Ads", "Google Ads"],
     stats: [
       { label: "Businesses Served", value: "40+" },
@@ -71,63 +100,32 @@ export const TEAM: TeamMember[] = [
     languages: ["English", "Urdu"],
     stars: 5,
     is_public: true,
+    /* ──────────────────────── 4. Mirza shahzad saleem ──────────────────────── */
   },
-  /* ──────────────────────── 2. CO-FOUNDER ──────────────────────── */
-  {
-    slug: "mirza-shahzad-saleem",
+  slug: "mirza-shahzad-saleem",
     full_name: "Mirza Shahzad Saleem",
-    title: "Co-Founder & Director of Operations",
-    level: "Lead",
-    bio: "Over two decades of deep industry insight. A unique blend of strong technical foundations and modern digital strategy, specialising in overseeing complex online business operations, software solutions, and digital agency services. Proven track record in optimising digital storefronts (Shopify), managing performance marketing (Meta Ads), and leading technical teams to deliver scalable online services. Equipped with the strategic vision required to streamline business workflows, enhance brand visibility, and drive revenue growth in today's digital landscape.",
+    title: "Lead Generation Specialist",
+    level: "Senior",
+    bio: "Over two decades of deep industry insight, combining strong technical foundations with modern digital strategy. At Ratech Global he focuses on lead generation — using Meta Ads and performance marketing to attract high-quality leads for clients, and optimising the workflows and digital storefronts (Shopify) that turn those leads into revenue. His strategic vision helps businesses enhance their brand visibility and build a steady, scalable pipeline of customers.",
     photo_url: "/team/mirza-shahzad-saleem.webp",
     photo_position: "top",
-    tagline: "Two decades of operations leadership — turning strategy into scalable systems.",
+    tagline: "Two decades of experience — turning ad spend into a steady flow of quality leads.",
     location: "Pakistan",
     experience: "20+ years",
     email: "haadinglobal@gmail.com",
-    skills: ["Agency Management", "Software Solutions", "Performance Marketing", "Meta Ads", "Shopify", "Operations", "Team Leadership", "Business Strategy"],
+    skills: ["Lead Generation", "Meta Ads", "Performance Marketing", "Funnel Optimisation", "Shopify", "Business Strategy"],
     stats: [
       { label: "Experience", value: "20+" },
-      { label: "Focus", value: "Operations" },
-      { label: "Specialty", value: "Strategy" },
-    ],
-    expertise: [
-      { title: "Agency Operations", detail: "Oversees the full operational engine of Ratech Global — from team allocation and project delivery to quality assurance and process optimisation." },
-      { title: "Software Solutions", detail: "Bridges the gap between business needs and technical execution, ensuring software and digital products are built to scale and solve real problems." },
-      { title: "Performance Marketing", detail: "Manages Meta Ads and paid media operations with a focus on ROI-driven campaigns, storefront optimisation, and sustainable revenue growth." },
-    ],
-    projects: ["Digital agency operations & scaling", "Shopify storefront optimisation", "Performance marketing campaigns", "Technical team leadership"],
-    quote: "Operations isn't the background work — it's the foundation everything else stands on.",
-    languages: ["English", "Urdu"],
-    stars: 5,
-    is_public: true,
-  },
-  /* ──────────────────────── 3. ROHAB ──────────────────────── */
-  {
-    slug: "rohab-abdullah",
-    full_name: "Rohab Abdullah",
-    title: "Digital Marketing & Lead Generation Expert",
-    level: "Senior",
-    bio: "Rohab Abdullah is a digital entrepreneur and the CEO of Ragoods.store, specialising in digital marketing, lead generation, brand growth and eCommerce. He helps businesses attract high-quality leads, increase sales, and build a strong online presence through data-driven marketing strategies. His work spans Meta Ads, social media and performance marketing, Shopify and WordPress development, sales-funnel optimisation and brand strategy — all pointed at one outcome: helping businesses grow faster, generate consistent revenue, and build brands that stand out in a crowded digital marketplace.",
-    photo_url: "/team/rohab-abdullah.jpeg",
-    photo_position: "center",
-    tagline: "Turning data-driven marketing into consistent leads, sales, and standout brands.",
-    location: "Pakistan",
-    experience: "CEO, Ragoods.store",
-    email: "haadinglobal@gmail.com",
-    skills: ["Meta Ads", "Lead Generation", "Performance Marketing", "Brand Strategy", "Shopify", "WordPress", "Sales Funnels", "eCommerce Growth"],
-    stats: [
-      { label: "eCommerce Brand", value: "CEO" },
-      { label: "Focus", value: "Leads & Sales" },
+      { label: "Focus", value: "Lead Generation" },
       { label: "Specialty", value: "Meta Ads" },
     ],
     expertise: [
-      { title: "Lead Generation & Performance Marketing", detail: "Builds data-driven campaigns that bring in high-quality leads and turn ad spend into measurable sales." },
-      { title: "eCommerce & Brand Growth", detail: "As CEO of his own store, he knows eCommerce from the inside — scaling Shopify & WordPress brands and optimising the full sales funnel." },
-      { title: "Meta Ads & Social Strategy", detail: "Plans and runs Meta Ads and social media strategies that grow online presence and drive consistent revenue." },
+      { title: "Lead Generation", detail: "Builds campaigns and funnels that bring in high-quality leads for clients, focused on buyers who are ready to talk, not just clicks." },
+      { title: "Performance Marketing", detail: "Manages Meta Ads and paid media with a focus on ROI-driven campaigns and sustainable revenue growth." },
+      { title: "Funnel Optimisation", detail: "Streamlines the path from first enquiry to closed sale, including storefront and landing page optimisation, so more leads turn into customers." },
     ],
-    projects: ["Ragoods.store — founder & CEO", "Meta Ads & lead-generation campaigns", "Shopify & WordPress eCommerce builds", "Sales-funnel optimisation for growing brands"],
-    quote: "Leads are easy to buy — the real work is turning them into sales and a brand people remember.",
+    projects: ["Lead-generation campaigns for service businesses", "Meta Ads performance marketing", "Shopify storefront optimisation"],
+    quote: "A good lead isn't a click — it's a real buyer who wants to hear from you.",
     languages: ["English", "Urdu"],
     stars: 5,
     is_public: true,

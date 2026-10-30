@@ -37,7 +37,7 @@ function Chip({
 
 export default function HeroAC() {
   return (
-    <section className="overflow-x-clip bg-[#080d1a] pt-28 text-[#b5c1d5] lg:pt-36">
+       <section className="hero-ac overflow-x-clip bg-[#080d1a] pt-28 text-[#b5c1d5] lg:pt-36">
       <div className="mx-auto max-w-7xl px-5 sm:px-8">
         <div className="grid items-center gap-14 pb-12 lg:grid-cols-[1.15fr_1fr] lg:gap-[72px]">
           <div>

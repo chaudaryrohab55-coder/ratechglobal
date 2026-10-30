@@ -30,6 +30,7 @@ red: {
   900: "#0c4a6e",
   950: "#082f49",
 },
+   },
       animation: {
         "spin-slow": "spin 20s linear infinite",
         "float": "float 6s ease-in-out infinite",

@@ -70,16 +70,16 @@ export default function HeroAC() {
             </div>
           </div>
 
-          <div className="relative mx-auto h-[360px] w-full max-w-[480px] sm:h-[420px] lg:mx-0 lg:max-w-none">
+          <div className="relative mx-auto aspect-[4/5] w-full max-w-[400px] lg:ml-auto lg:mr-0">
             <div className="absolute inset-0 overflow-hidden rounded-3xl border border-[#26334a] bg-[#111b2e]">
               <Image
-                src="/muhammad-haseeb.webp"
+                src="/founder-hero.webp"
                 alt={`${FOUNDER_NAME}, ${FOUNDER_ROLE}, Ratech Global`}
                 fill
                 priority
                 sizes="(max-width: 1024px) 90vw, 480px"
                 className="object-cover"
-                style={{ objectPosition: "center 30%" }}
+                style={{ objectPosition: "center 20%" }}
               />
             </div>
 

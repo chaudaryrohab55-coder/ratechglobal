@@ -49,7 +49,7 @@ export default function AboutSection() {
                 <div className="relative w-full aspect-square sm:aspect-[4/5] md:aspect-square lg:aspect-[4/5] max-h-[460px] mx-auto">
                   <Image
                     src="/muhammad-haseeb.webp"
-                    alt="Muhammad Haseeb — Founder & CEO, Ratech Global"
+                    alt="Rohab Abdullah — Founder & CEO, Ratech Global"
                     fill
                     sizes="(max-width: 640px) 90vw, (max-width: 1024px) 45vw, 420px"
                     className="object-cover"
@@ -58,16 +58,16 @@ export default function AboutSection() {
                   />
                 </div>
                 <div className="px-4 py-3 border-t border-[var(--border)]">
-                  <p className="text-white font-black text-lg leading-tight">Muhammad Haseeb</p>
+                  <p className="text-white font-black text-lg leading-tight">Rohab Abdullah</p>
                   <p className="text-red-400 text-sm font-semibold">Founder &amp; CEO</p>
-                  <p className="text-slate-400 text-xs mt-0.5">Digital Strategy · SEO · Paid Media · AI Automation</p>
+                  <p className="text-slate-400 text-xs mt-0.5">Digital Strategy · SEO · Paid Media.social media marketing · </p>
                 </div>
               </div>
 
               {/* Mini stats (Every Stat box is now Clickable) */}
               <div className="grid grid-cols-2 gap-3">
                 {[
-                  { icon:<TrendingUp size={15} className="text-red-400"/>,  v:"120+",  l:"Projects", route:"/portfolio" },
+                  { icon:<TrendingUp size={15} className="text-red-400"/>,  v:"38+",  l:"Projects", route:"/portfolio" },
                   { icon:<Target size={15} className="text-amber-400"/>,     v:"90%",   l:"Retention", route:"/about" },
                   { icon:<Globe size={15} className="text-green-300"/>,      v:"5",     l:"Countries", route:"/portfolio" },
                   { icon:<Award size={15} className="text-blue-400"/>,       v:"24h",   l:"Avg Reply", route:"/contact" },
@@ -89,7 +89,7 @@ export default function AboutSection() {
 
             {/* Floating badge (Clickable link to pricing or case studies) */}
             <Link href="/portfolio" className="absolute -bottom-5 -right-4 card px-5 py-4 shadow-[0_0_30px_rgba(239,68,68,0.2)] hover:scale-105 transition-transform duration-300">
-              <p className="text-2xl font-black gradient-text">$500K+</p>
+              <p className="text-2xl font-black gradient-text">$50K+</p>
               <p className="text-xs text-slate-500">Ad Spend Managed</p>
             </Link>
           </motion.div>

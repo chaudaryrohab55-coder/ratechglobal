@@ -384,3 +384,19 @@ html:not([data-theme="light"]) .blog-body strong { color: #ffffff; }
 @media (prefers-reduced-motion: reduce) {
   .hero-chip { animation: none; opacity: 1; }
 }
+
+/* Hero stays dark with white text, even in light theme */
+html[data-theme="light"] .hero-ac {
+  background-color: #080d1a !important;
+  color: #b5c1d5 !important;
+}
+html[data-theme="light"] .hero-ac h1,
+html[data-theme="light"] .hero-ac .text-white {
+  color: #f8fafc !important;
+}
+html[data-theme="light"] .hero-ac .text-sky-400 {
+  color: #38bdf8 !important;
+}
+html[data-theme="light"] .hero-ac p {
+  color: #b5c1d5 !important;
+}

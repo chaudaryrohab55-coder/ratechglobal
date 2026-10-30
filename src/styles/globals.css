@@ -20,7 +20,7 @@
 }
 [data-theme="light"] {
  --brand: #155eef; --brand-dark: #0f46b8; --brand-deep: #0b3a9e;
-  --bg: #f7f7fb; --bg-2: #eef0f7; --bg-card: #ffffff; --bg-elev: #ffffff;
+  --bg: #ffffff; --bg-2: #eef0f7; --bg-card: #ffffff; --bg-elev: #ffffff;
   --text: #0b1020; --text-2: #334155; --text-3: #64748b; --text-4: #94a3b8;
   --border: rgba(15,23,42,0.10); --border-2: rgba(15,23,42,0.14);
   --border-red: rgba(220,38,38,0.28); --glass: rgba(255,255,255,0.85);

@@ -9,8 +9,8 @@
    ===================================================================== */
 :root,
 [data-theme="dark"] {
-  --brand: #155eef; --brand-dark: #3978ff; --brand-deep: #0f46b8;
-  --accent: #22d3ee;
+ --brand: #0ea5e9; --brand-dark: #0284c7; --brand-deep: #0369a1;
+--accent: #22d3ee;
   --bg: #080d1a; --bg-2: #0d1424; --bg-card: #111b2e; --bg-elev: #162238;
   --text: #f8fafc; --text-2: #b5c1d5; --text-3: #8290a8; --text-4: #64748b;
   --border: #26334a; --border-2: #33425e;

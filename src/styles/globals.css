@@ -400,3 +400,36 @@ html[data-theme="light"] .hero-ac .text-sky-400 {
 html[data-theme="light"] .hero-ac p {
   color: #b5c1d5 !important;
 }
+
+@keyframes industriesScroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+.industries-viewport {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+}
+.industries-track {
+  animation: industriesScroll 45s linear infinite;
+}
+.industries-viewport:hover .industries-track {
+  animation-play-state: paused;
+}
+@media (prefers-reduced-motion: reduce) {
+  .industries-viewport { overflow-x: auto; }
+  .industries-track { animation: none; }
+}
+
+/* Keep this section dark with light text, even in the light theme */
+html[data-theme="light"] .industries-ac {
+  background-color: #080d1a !important;
+  color: #b5c1d5 !important;
+}
+html[data-theme="light"] .industries-ac h2,
+html[data-theme="light"] .industries-ac .text-white {
+  color: #f8fafc !important;
+}
+html[data-theme="light"] .industries-ac .text-sky-400 {
+  color: #38bdf8 !important;
+}

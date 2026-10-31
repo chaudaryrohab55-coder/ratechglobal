@@ -24,7 +24,7 @@ export default function PrivacyPage() {
               { h:"3. Information Sharing", t:"We do not sell or rent your personal information to third parties. We may share information with trusted service providers (Formspree for form processing, analytics tools) strictly to operate our business." },
               { h:"4. Cookies", t:"We use cookies to improve your browsing experience, analyze website traffic, and personalize content. You can disable cookies in your browser settings, though this may affect website functionality." },
               { h:"5. Data Security", t:"We implement industry-standard security measures to protect your information. However, no method of internet transmission is 100% secure." },
-              { h:"6. Contact Us", t:"For any privacy-related questions, contact us at haadinglobal@gmail.com or WhatsApp +92 316 8612919." },
+              { h:"6. Contact Us", t:"For any privacy-related questions, contact us at ratechglobal1@gmail.com or WhatsApp +92 316 8612919." },
             ].map(s => (
               <div key={s.h}>
                 <h2 className="font-display font-bold text-white text-xl mb-3">{s.h}</h2>

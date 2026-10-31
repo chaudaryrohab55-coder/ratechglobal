@@ -73,7 +73,7 @@ const jsonLd = {
         postalCode: "57000",
         addressCountry: "PK",
       },
-      contactPoint: { "@type": "ContactPoint", telephone: "+92-316-8612919", contactType: "customer service", email: "haadinglobal@gmail.com" },
+      contactPoint: { "@type": "ContactPoint", telephone: "+92-316-8612919", contactType: "customer service", email: "ratechglobal1@gmail.com" },
       areaServed: [
         { "@type": "Country", name: "Pakistan" },
         { "@type": "Country", name: "United Arab Emirates" },
@@ -104,7 +104,7 @@ const jsonLd = {
       image: "https://www.ratechglobal.com/logo.png",
       url: "https://www.ratechglobal.com",
       telephone: "+92-316-8612919",
-      email: "haadinglobal@gmail.com",
+      email: "ratechglobal1@gmail.com",
       priceRange: "$$",
       parentOrganization: { "@id": "https://www.ratechglobal.com/#org" },
       address: {

@@ -113,7 +113,7 @@ export const TEAM: TeamMember[] = [
     tagline: "Two decades of experience — turning ad spend into a steady flow of quality leads.",
     location: "Pakistan",
     experience: "20+ years",
-    email: "haadinglobal@gmail.com",
+    email: "ratechglobal1@gmail.com",
     skills: ["Lead Generation", "Meta Ads", "Performance Marketing", "Funnel Optimisation", "Shopify", "Business Strategy"],
     stats: [
       { label: "Experience", value: "20+" },

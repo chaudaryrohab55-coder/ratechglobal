@@ -52,7 +52,7 @@ export default function CareersPage() {
                     <span>📍 {job.location}</span>
                   </div>
                 </div>
-                <Link href={`mailto:haadinglobal@gmail.com?subject=Application: ${job.title}`} className="btn-primary text-sm py-2.5 px-5 flex-shrink-0">
+                <Link href={`mailto:ratechglobal1@gmail.com?subject=Application: ${job.title}`} className="btn-primary text-sm py-2.5 px-5 flex-shrink-0">
                   Apply Now →
                 </Link>
               </div>
@@ -62,7 +62,7 @@ export default function CareersPage() {
           <div className="mt-10 card p-8 text-center">
             <h3 className="text-white font-black text-xl mb-2">Don't see a role that fits?</h3>
             <p className="text-slate-400 mb-5">We're always looking for talented people. Send your CV and we'll reach out when a role opens up.</p>
-            <Link href="mailto:haadinglobal@gmail.com?subject=General Application — Ratech Global" className="btn-primary inline-flex">
+            <Link href="mailto:ratechglobal1@gmail.com?subject=General Application — Ratech Global" className="btn-primary inline-flex">
               Send Open Application →
             </Link>
           </div>

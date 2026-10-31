@@ -29,14 +29,14 @@ Yeh guide team login + dashboard ko **live** karta hai. Ek-ek step follow karo.
 Pehla admin manually banega (baaki aap dashboard se banaoge):
 
 1. Supabase → **Authentication → Users → Add user → Create new user**.
-   - Email: `haadinglobal@gmail.com` (ya jo aap chaho)
+   - Email: `ratechglobal1@gmail.com` (ya jo aap chaho)
    - Password: ek strong password set karo → **Create user**.
 2. Us naye user par click karo → uska **User UID** copy karo (lamba id).
 3. Supabase → **SQL Editor** → New query → yeh chala do (UID paste karke):
 
 ```sql
 insert into public.profiles (id, full_name, role, title, level, email, is_public, stars)
-values ('PASTE-USER-UID-HERE', 'Muhammad Haseeb', 'admin', 'Founder & CEO', 'Lead', 'haadinglobal@gmail.com', true, 5);
+values ('PASTE-USER-UID-HERE', 'Muhammad Haseeb', 'admin', 'Founder & CEO', 'Lead', 'ratechglobal1@gmail.com', true, 5);
 ```
 
 4. Ab `https://www.ratechglobal.com/login` par apne email + password se login karo.

@@ -5,8 +5,8 @@ export const SITE = {
   phone: "+92 316 8612919",
   phoneClean: "+923168612919",
   whatsapp: "923168612919",
-  email: "haadinglobal@gmail.com",
-  emailInfo: "haadinglobal@gmail.com",
+  email: "ratechglobal1@gmail.com",
+  emailInfo: "ratechglobal1@gmail.com",
   formspree: "mbdwvpyp",
   social: {
     facebook:  "https://web.facebook.com/ratechglobal",

@@ -36,7 +36,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global is a Sahiwal-based digital marketing agency helping local shops, academies, clinics, property dealers and online stores get more customers with Meta Ads, Google Ads and SEO — managed by specialists who care about your ROI.",
     metaTitle: "Digital Marketing Agency in Sahiwal | Ratech Global",
     metaDescription:
-      "Grow your Sahiwal business with Ratech Global — expert SEO, Meta & Google Ads, social media and web development. Local team, real ROI. Free consultation: +92 305 4782677.",
+      "Grow your Sahiwal business with Ratech Global — expert SEO, Meta & Google Ads, social media and web development. Local team, real ROI. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Based in Sahiwal — local team",
       "ROI-focused Meta & Google Ads",
@@ -88,7 +88,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Multan businesses — retailers, real estate, clinics, agriculture and online sellers — grow with Meta Ads, Google Ads and SEO focused on real leads and sales across South Punjab.",
     metaTitle: "Digital Marketing Agency in Multan | Ratech Global",
     metaDescription:
-      "Grow your Multan business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Multan business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "ROI-focused Meta & Google Ads",
       "Serving Multan & South Punjab",
@@ -128,7 +128,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Jhang businesses — local shops, agriculture, real estate and services — get discovered online and win more customers with affordable, results-focused Meta Ads, Google Ads and SEO.",
     metaTitle: "Digital Marketing Agency in Jhang | Ratech Global",
     metaDescription:
-      "Grow your Jhang business with Ratech Global — affordable SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Jhang business with Ratech Global — affordable SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Affordable, results-focused",
       "Serving Jhang & nearby areas",
@@ -180,7 +180,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Okara businesses — from agriculture and dairy to retail shops, real estate and services — grow with affordable, ROI-focused Meta Ads, Google Ads and SEO.",
     metaTitle: "Digital Marketing Agency in Okara | Ratech Global",
     metaDescription:
-      "Grow your Okara business with Ratech Global — affordable SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Okara business with Ratech Global — affordable SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Affordable & ROI-focused",
       "Serving Okara & nearby areas",
@@ -232,7 +232,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Lahore businesses cut through a crowded market — from retail and real estate to restaurants, fashion, education and startups — with Meta Ads, Google Ads and SEO engineered for real ROI, not vanity metrics.",
     metaTitle: "Digital Marketing Agency in Lahore | Ratech Global",
     metaDescription:
-      "Grow your Lahore business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Lahore business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Built for Lahore's competitive market",
       "ROI-focused Meta & Google Ads",
@@ -284,7 +284,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Faisalabad businesses — from textile and industrial units to retailers, wholesalers and online stores — win more customers with Meta Ads, Google Ads and SEO built around real ROI, not vanity metrics.",
     metaTitle: "Digital Marketing Agency in Faisalabad | Ratech Global",
     metaDescription:
-      "Grow your Faisalabad business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Faisalabad business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "ROI-focused Meta & Google Ads",
       "Built for Faisalabad's business market",
@@ -324,7 +324,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Sargodha businesses — retail, citrus and agriculture exporters, real estate, education and services — reach more customers with ROI-focused Meta Ads, Google Ads and SEO.",
     metaTitle: "Digital Marketing Agency in Sargodha | Ratech Global",
     metaDescription:
-      "Grow your Sargodha business with Ratech Global — SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Sargodha business with Ratech Global — SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "ROI-focused campaigns",
       "Serving Sargodha & nearby areas",
@@ -376,7 +376,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Pakpattan businesses — local shops, agriculture, real estate and services — get online and bring in more customers with affordable, results-driven Meta Ads, Google Ads and SEO.",
     metaTitle: "Digital Marketing Agency in Pakpattan | Ratech Global",
     metaDescription:
-      "Grow your Pakpattan business with Ratech Global — affordable SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Pakpattan business with Ratech Global — affordable SEO, Meta & Google Ads, social media and websites. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Affordable & results-driven",
       "Serving Pakpattan & nearby areas",
@@ -428,7 +428,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Karachi businesses win in Pakistan's most competitive market — from retail and e-commerce to real estate, restaurants, import/export and startups — with Meta Ads, Google Ads and SEO built for real ROI.",
     metaTitle: "Digital Marketing Agency in Karachi | Ratech Global",
     metaDescription:
-      "Grow your Karachi business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Karachi business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Built for Karachi's huge, fast market",
       "ROI-focused Meta & Google Ads",
@@ -480,7 +480,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Islamabad businesses — from corporate and tech to real estate, education, clinics and upscale retail — grow with professional, ROI-focused Meta Ads, Google Ads and SEO.",
     metaTitle: "Digital Marketing Agency in Islamabad | Ratech Global",
     metaDescription:
-      "Grow your Islamabad business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Islamabad business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Professional, ROI-focused campaigns",
       "Serving Islamabad & the twin cities",
@@ -532,7 +532,7 @@ export const LANDINGS: Landing[] = [
       "Ratech Global helps Rawalpindi businesses — retail, wholesale and trade, real estate, restaurants and services — reach more customers with affordable, results-driven Meta Ads, Google Ads and SEO across Pindi and the twin cities.",
     metaTitle: "Digital Marketing Agency in Rawalpindi | Ratech Global",
     metaDescription:
-      "Grow your Rawalpindi business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 305 4782677.",
+      "Grow your Rawalpindi business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
     heroPoints: [
       "Affordable & results-driven",
       "Serving Rawalpindi & the twin cities",

@@ -64,7 +64,7 @@ export default function HomePage() {
               </p>
               <div className="space-y-3">
                 {[
-                  { icon:"📞", t:"Phone & WhatsApp", v:"+92 305 4782677", href:"https://wa.me/923054782677" },
+                  { icon:"📞", t:"Phone & WhatsApp", v:"+92 316 8612919", href:"https://wa.me/923168612919" },
                   { icon:"📧", t:"Email", v:"haadinglobal@gmail.com", href:"mailto:haadinglobal@gmail.com" },
                   { icon:"📍", t:"Office", v:"Sahiwal, Punjab, Pakistan", href:"#" },
                   { icon:"🕐", t:"Response Time", v:"Within 2–4 hours", href:"#" },

@@ -24,12 +24,12 @@ const SEO_TITLES: Record<string, string> = {
   "graphic-design": "Graphic Design Services in Pakistan",
 };
 const SEO_DESCS: Record<string, string> = {
-  "meta-ads": "Expert Meta & Facebook ads management in Pakistan. Targeted campaigns that turn ad spend into real leads and sales. Free consultation: +92 305 4782677.",
+  "meta-ads": "Expert Meta & Facebook ads management in Pakistan. Targeted campaigns that turn ad spend into real leads and sales. Free consultation: +92 316 8612919.",
   "google-ads": "Professional Google Ads management in Pakistan. Capture high-intent buyers the moment they search. ROI-focused, transparent reporting. Free consultation.",
-  "seo": "Affordable SEO services in Pakistan to rank on Google and grow organic traffic. Local & national SEO for real leads. Free consultation: +92 305 4782677.",
+  "seo": "Affordable SEO services in Pakistan to rank on Google and grow organic traffic. Local & national SEO for real leads. Free consultation: +92 316 8612919.",
   "social-media": "Social media marketing in Pakistan — content, management and growth across Facebook, Instagram & TikTok. Build a trusted brand. Free consultation.",
   "youtube-automation": "YouTube automation services — we build and run faceless channels the right way, with quality content built to grow. Free consultation with Ratech Global.",
-  "web-development": "Custom Next.js websites built to load fast & convert visitors into leads. 4-8 week delivery, mobile-first, SEO-ready. Free quote: +92 305 4782677.",
+  "web-development": "Custom Next.js websites built to load fast & convert visitors into leads. 4-8 week delivery, mobile-first, SEO-ready. Free quote: +92 316 8612919.",
   "shopify": "Shopify store development in Pakistan — premium, conversion-optimized online stores built to sell. Setup, design and growth. Free consultation.",
   "branding": "Branding and logo design in Pakistan. A clean, memorable brand identity that builds trust and stands out. Free consultation with Ratech Global.",
   "ai-automation": "AI automation for business — automate repetitive workflows and scale smarter. Custom AI solutions for growing companies. Free consultation.",
@@ -160,7 +160,7 @@ export default function ServicePage({ params }: { params: { slug: string } }) {
               )}
               <div className="flex flex-wrap gap-3">
                 <Link href="/consultation" className="btn-primary">Get Started <ArrowRight size={16}/></Link>
-                <a href="https://wa.me/923054782677" target="_blank" rel="noopener noreferrer" className="btn-ghost">
+                <a href="https://wa.me/923168612919" target="_blank" rel="noopener noreferrer" className="btn-ghost">
                   <MessageCircle size={16}/> WhatsApp Us
                 </a>
               </div>

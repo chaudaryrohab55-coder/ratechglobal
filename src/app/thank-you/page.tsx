@@ -80,11 +80,11 @@ function ThankYouInner() {
               <strong className="text-white">Need urgent help?</strong> WhatsApp us directly for an instant response:
             </p>
             <a
-              href={`https://wa.me/923054782677?text=${encodeURIComponent("Hi Ratech Global, I just submitted a form on your website.")}`}
+              href={`https://wa.me/923168612919?text=${encodeURIComponent("Hi Ratech Global, I just submitted a form on your website.")}`}
               target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-[#25D366] text-white font-bold text-sm hover:opacity-90 hover:-translate-y-0.5 transition-all shadow-lg"
             >
-              <MessageCircle size={16} /> WhatsApp: +92 305 4782677
+              <MessageCircle size={16} /> WhatsApp: +92 316 8612919
             </a>
           </motion.div>
 
@@ -119,7 +119,7 @@ function ThankYouInner() {
           className="text-center text-slate-500 text-xs mt-5"
         >
           <Phone size={11} className="inline mr-1" />
-          Prefer a direct call? Reach us at <span className="text-slate-400 font-semibold">+92 305 4782677</span>
+          Prefer a direct call? Reach us at <span className="text-slate-400 font-semibold">+92 316 8612919</span>
         </motion.p>
       </div>
     </main>

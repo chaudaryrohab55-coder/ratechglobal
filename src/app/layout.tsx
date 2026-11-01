@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   verification: {
-    google: "TsWZj-bZ3ii9Q_Rfk9AoI1eFzagPGWpyqPoFjMJ_M7A",
+   content="9n-sDkHp8go3hRl
   },
   alternates: { canonical: "https://www.ratechglobal.com" },
 };

@@ -32,8 +32,8 @@ function IndustryCard({ item, index }: { item: Industry; index: number }) {
   const { Icon } = item;
   return (
     <div
-      className={`w-[240px] shrink-0 overflow-hidden rounded-2xl border border-[#26334a] bg-[#111b2e] ${
-        index % 2 === 1 ? "mt-8" : ""
+      className={`   h-[272px] w-[240px] shrink-0 overflow-hidden rounded-2xl border border-[#26334a] bg-[#111b2e] ${
+      index % 2 === 1 ? "translate-y-8" : ""
       }`}
     >
       {item.image ? (
@@ -71,7 +71,7 @@ export default function IndustriesMarquee() {
       </div>
 
       <div className="industries-viewport mt-12">
-        <div className="industries-track flex w-max">
+        <div className="industries-track flex w-max pb-10">
           <div className="flex gap-5 pr-5">
             {industries.map((item, i) => (
               <IndustryCard key={item.label} item={item} index={i} />

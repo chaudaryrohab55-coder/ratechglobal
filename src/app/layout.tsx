@@ -40,8 +40,8 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   verification: {
-   content="9n-sDkHp8go3hRl
-  },
+  google: "9n-sDkHp8go3hRIt5rYXT531L87f_dLi_rVQeSr9FuM" />
+},
   alternates: { canonical: "https://www.ratechglobal.com" },
 };
 

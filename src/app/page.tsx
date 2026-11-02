@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import HeroAC from "@/components/home/HeroAC";
 import IndustriesMarquee from "@/components/home/IndustriesMarquee";
-import TrustBadges from "@/components/home/TrustBadges";
+import ProcessSection from "@/components/home/ProcessSection";
 import ServicesSection from "@/components/home/ServicesSection";
 import StatsSection from "@/components/home/StatsSection";
 import AboutSection from "@/components/home/AboutSection";
@@ -29,7 +29,7 @@ export default function HomePage() {
       />
       <HeroAC />
       <IndustriesMarquee />
-      <TrustBadges />
+      <ProcessSection />
       <ServicesSection />
       <StatsSection />
       <AboutSection />

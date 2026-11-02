@@ -12,7 +12,21 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const post = BLOG_POSTS.find(p => p.slug === params.slug);
   if (!post) return { title: "Post Not Found" };
-  return { title: post.title, description: post.excerpt };
+   const url = `https://www.ratechglobal.com/blog/${post.slug}`;
+  return {
+    title: post.title,
+    description: post.excerpt,
+    alternates: { canonical: `/blog/${post.slug}` },
+    openGraph: {
+      type: "article",
+      url,
+      title: post.title,
+      description: post.excerpt,
+      siteName: "Ratech Global",
+      images: [{ url: post.image, width: 1200, height: 630, alt: post.title }],
+    },
+    twitter: { card: "summary_large_image", title: post.title, description: post.excerpt, images: [post.image] },
+  };
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {

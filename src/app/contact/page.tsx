@@ -5,6 +5,7 @@ import { SITE } from "@/data/siteConfig";
 export const metadata: Metadata = {
   title: "Contact Us — Ratech Global",
   description: "Get in touch with Ratech Global. Book a free consultation or reach us via WhatsApp, email, or phone.",
+    alternates: { canonical: "/contact" },
 };
 
 export default function ContactPage() {

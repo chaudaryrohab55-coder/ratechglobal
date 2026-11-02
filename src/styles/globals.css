@@ -433,3 +433,16 @@ html[data-theme="light"] .industries-ac .text-white {
 html[data-theme="light"] .industries-ac .text-sky-400 {
   color: #38bdf8 !important;
 }
+
+/* Keep the process section dark with light text, even in the light theme */
+html[data-theme="light"] .process-ac {
+  background-color: #080d1a !important;
+  color: #b5c1d5 !important;
+}
+html[data-theme="light"] .process-ac h2,
+html[data-theme="light"] .process-ac .text-white {
+  color: #f8fafc !important;
+}
+html[data-theme="light"] .process-ac .text-sky-400 {
+  color: #38bdf8 !important;
+}

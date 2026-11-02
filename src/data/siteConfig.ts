@@ -7,7 +7,7 @@ export const SITE = {
   whatsapp: "923168612919",
   email: "ratechglobal1@gmail.com",
   emailInfo: "ratechglobal1@gmail.com",
-  formspree: "mbdwvpyp",
+  formspree: "mwllwkel",
   social: {
     facebook:  "https://web.facebook.com/ratechglobal",
     tiktok:    "https://www.tiktok.com/@ratechglobal",

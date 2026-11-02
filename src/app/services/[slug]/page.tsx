@@ -64,6 +64,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const svc = SERVICES.find(s => s.id === params.slug);
   if (!svc) return { title: "Service Not Found" };
   const url = `https://www.ratechglobal.com/services/${svc.id}`;
+    const ogName = svc.title.endsWith("Services") ? svc.title : `${svc.title} Services`;
   return {
     // Keyword-rich title; the root layout template adds "| Ratech Global" once,
     // so we don't repeat the brand here (was producing "… — Ratech Global | Ratech Global").
@@ -74,14 +75,14 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     openGraph: {
       type: "website",
       url,
-      title: `${svc.title} Services | Ratech Global`,
+      title: `${ogName} | Ratech Global`,
       description: svc.shortDesc,
       siteName: "Ratech Global",
       images: [{ url: "/logo.png", width: 1200, height: 630, alt: `Ratech Global — ${svc.title}` }],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${svc.title} Services | Ratech Global`,
+      title: `${ogName} | Ratech Global`,
       description: svc.shortDesc,
     },
   };

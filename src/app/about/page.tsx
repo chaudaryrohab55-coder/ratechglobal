@@ -8,6 +8,7 @@ import { CTASection } from "@/components/home/SiteSections";
 export const metadata: Metadata = {
   title: "About Us — Ratech Global Digital Agency",
   description: "Learn about Ratech Global — our story, mission, values, and the team behind results-driven digital marketing agency.",
+  alternates: { canonical: "/about" },
 };
 
 const TEAM = [

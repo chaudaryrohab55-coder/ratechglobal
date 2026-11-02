@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 const TEAM = [
-  { name:"Muhammad Haseeb", role:"Founder & CEO", spec:"Digital Strategy, SEO, PPC", img:"/muhammad-haseeb.webp" },
+  { name:"Rohab Abdulah", role:"Founder & CEO", spec:"Digital Strategy, SEO, PPC", img:"/muhammad-haseeb.webp" },
   { name:"Hadi Nasser", role:"Head of Technology", spec:"Web Dev, AI Automation", emoji:"👨‍💻" },
   { name:"Sara Ahmed", role:"Creative Director", spec:"Branding, Design, UX", emoji:"👩‍🎨" },
   { name:"Ali Raza", role:"PPC Specialist", spec:"Google & Meta Ads", emoji:"🎯" },
@@ -59,7 +59,7 @@ export default function AboutPage() {
                 <div className="relative w-full aspect-square sm:aspect-[4/5] max-h-[440px] mx-auto">
                   <Image
                     src="/muhammad-haseeb.webp"
-                    alt="Muhammad Haseeb — Founder & CEO"
+                    alt="Rohab Abdullah — Founder & CEO"
                     fill
                     sizes="(max-width: 1024px) 100vw, 50vw"
                     className="object-cover"
@@ -68,7 +68,7 @@ export default function AboutPage() {
                   />
                 </div>
                 <div className="px-4 py-3 border-t border-[var(--border)]">
-                  <p className="text-white font-black text-xl">Muhammad Haseeb</p>
+                  <p className="text-white font-black text-xl">Rohab Abdullah</p>
                   <p className="text-red-400 text-sm font-semibold">Founder &amp; CEO, Ratech Global</p>
                 </div>
               </div>

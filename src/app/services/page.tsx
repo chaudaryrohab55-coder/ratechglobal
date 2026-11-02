@@ -9,6 +9,7 @@ import ServiceCardText from "@/components/services/ServiceCardText";
 export const metadata: Metadata = {
   title: "Digital Marketing Services — Ratech Global",
   description: "12 premium digital marketing services: Meta Ads, Google Ads, SEO, YouTube Automation, Shopify, Web Development, Branding & AI Automation.",
+  alternates: { canonical: "/services" },
 };
 
 export default function ServicesPage() {

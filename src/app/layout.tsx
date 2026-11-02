@@ -42,7 +42,6 @@ export const metadata: Metadata = {
   verification: {
   google: "9n-sDkHp8go3hRIt5rYXT531L87f_dLi_rVQeSr9FuM",
 },
-  alternates: { canonical: "https://www.ratechglobal.com" },
 };
 
 const jsonLd = {

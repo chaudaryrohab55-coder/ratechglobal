@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 };
 
 const TEAM = [
-  { name:"Rohab Abdulah", role:"Founder & CEO", spec:"Digital Strategy, SEO, PPC", img:"/muhammad-haseeb.webp" },
+  { name:"Rohab Abdulah", role:"Founder & CEO", spec:"Digital Strategy, SEO, PPC", img:"/team/rohab-abdullah-2026.webp" },
   { name:"Hadi Nasser", role:"Head of Technology", spec:"Web Dev, AI Automation", emoji:"👨‍💻" },
   { name:"Sara Ahmed", role:"Creative Director", spec:"Branding, Design, UX", emoji:"👩‍🎨" },
   { name:"Ali Raza", role:"PPC Specialist", spec:"Google & Meta Ads", emoji:"🎯" },

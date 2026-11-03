@@ -3,7 +3,7 @@ import Link from "next/link";
 import { CTASection } from "@/components/home/SiteSections";
 
 export const metadata: Metadata = {
-  title: "Careers — Join Ratech Global Team",
+  title: "Careers — Join Our Digital Marketing Team",
   description: "Join results-driven digital marketing agency. Exciting roles in Meta Ads, SEO, web development, AI automation and more.",
      alternates: { canonical: "/careers" },
 };

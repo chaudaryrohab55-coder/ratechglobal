@@ -306,7 +306,7 @@ export default function HeroSection() {
                 <p className="text-[11px] text-slate-400">Avg ROAS (Meta Ads)</p>
               </div>
               <div className="card rounded-2xl p-3 text-center">
-                <p className="text-2xl font-black text-white">$500K+</p>
+                <p className="text-2xl font-black text-white">PKR 500K+</p>
                 <p className="text-[11px] text-slate-400">Revenue Generated</p>
               </div>
               <div className="card rounded-2xl p-3 text-center">
@@ -349,7 +349,7 @@ export default function HeroSection() {
             <FloatCard className="-bottom-4 -right-2 md:-right-6 w-44" delay={1.15}>
               <ShoppingBag size={15} className="text-red-400 mb-1"/>
               <p className="text-[11px] text-slate-400">Revenue Generated</p>
-              <p className="text-2xl font-black text-white">$500K+</p>
+              <p className="text-2xl font-black text-white">PKR 500K+</p>
               <p className="text-[11px] text-green-300 font-bold">For our clients</p>
             </FloatCard>
           </motion.div>

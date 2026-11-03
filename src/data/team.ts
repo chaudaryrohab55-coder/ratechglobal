@@ -88,7 +88,7 @@ export const TEAM: TeamMember[] = [
     stats: [
       { label: "Businesses Served", value: "40+" },
       { label: "Countries", value: "6" },
-      { label: "Client Revenue Driven", value: "$500K+" },
+      { label: "Client Revenue Driven", value: "$50k+" },
     ],
     expertise: [
       { title: "Growth Strategy", detail: "Maps the full funnel — from first ad impression to closed sale — and builds the system to move people through it profitably." },

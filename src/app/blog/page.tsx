@@ -4,7 +4,7 @@ import Image from "next/image";
 import { BLOG_POSTS } from "@/data/blog";
 
 export const metadata: Metadata = {
-  title: "Blog — Digital Marketing Insights | Ratech Global",
+    title: "Blog — Digital Marketing Insights",
   description: "Expert insights on Meta Ads, Google Ads, SEO, YouTube Automation, Shopify, and digital marketing strategies from Ratech Global.",
      alternates: { canonical: "/blog" },
 };

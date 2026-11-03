@@ -56,5 +56,5 @@ src/
 
 ## 📞 Contact
 
-- WhatsApp: +92 305 4782677
-- Email: haadingroup@gmail.com
+- WhatsApp: +92 316 8612919
+- Email: ratechglobal1@gmail.com

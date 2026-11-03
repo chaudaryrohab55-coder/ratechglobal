@@ -108,7 +108,7 @@ export default function PricingCalculator() {
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                   {SVC_OPTS.map(s => (
                     <button key={s.id} onClick={() => toggle(s.id)}
-                      className={`relative p-3 rounded-xl border text-left transition-all duration-200 ${selected.includes(s.id)?"border-red-500/60 bg-red-500/10 shadow-[0_4px_18px_rgba(239,68,68,0.18)] -translate-y-0.5":"border-[var(--border-2)] bg-[var(--surface-soft)] hover:border-red-500/30 hover:-translate-y-0.5 hover:shadow-[0_6px_18px_rgba(0,0,0,0.18)]"}`}
+                      className={`relative p-3 rounded-xl border text-left transition-all duration-200 ${selected.includes(s.id)?"border-red-500/60 bg-red-500/10 shadow-[0_4px_18px_rgba(14,165,233,0.18)] -translate-y-0.5":"border-[var(--border-2)] bg-[var(--surface-soft)] hover:border-red-500/30 hover:-translate-y-0.5 hover:shadow-[0_6px_18px_rgba(0,0,0,0.18)]"}`}
                     >
                       {selected.includes(s.id) && (
                         <div className="absolute top-2 right-2 w-4 h-4 rounded-full bg-red-500 flex items-center justify-center">
@@ -134,7 +134,7 @@ export default function PricingCalculator() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
                   {BUDGETS.map(b => (
                     <button key={b.key} onClick={() => { setBudget(b.key); setShown(false); }}
-                      className={`p-3 rounded-xl border text-left text-sm font-semibold transition-all ${budget===b.key?"border-red-500/60 bg-red-500/10 text-white shadow-[0_4px_16px_rgba(239,68,68,0.15)]":"border-[var(--border-2)] bg-[var(--surface-soft)] text-slate-400 hover:border-red-500/30"}`}
+                      className={`p-3 rounded-xl border text-left text-sm font-semibold transition-all ${budget===b.key?"border-red-500/60 bg-red-500/10 text-white shadow-[0_4px_16px_rgba(14,165,233,0.15)]":"border-[var(--border-2)] bg-[var(--surface-soft)] text-slate-400 hover:border-red-500/30"}`}
                     >
                       <DollarSign size={13} className="inline mr-0.5 text-red-400"/>{b.label}
                     </button>
@@ -151,7 +151,7 @@ export default function PricingCalculator() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
                   {TIMELINES.map(tl => (
                     <button key={tl.key} onClick={() => { setTimeline(tl.key); setShown(false); }}
-                      className={`p-3 rounded-xl border text-left text-sm font-semibold transition-all ${timeline===tl.key?"border-red-500/60 bg-red-500/10 text-white shadow-[0_4px_16px_rgba(239,68,68,0.15)]":"border-[var(--border-2)] bg-[var(--surface-soft)] text-slate-400 hover:border-red-500/30"}`}
+                      className={`p-3 rounded-xl border text-left text-sm font-semibold transition-all ${timeline===tl.key?"border-red-500/60 bg-red-500/10 text-white shadow-[0_4px_16px_rgba(14,165,233,0.15)]":"border-[var(--border-2)] bg-[var(--surface-soft)] text-slate-400 hover:border-red-500/30"}`}
                     >
                       <Calendar size={13} className="inline mr-1 text-red-400"/>{tl.label}
                     </button>

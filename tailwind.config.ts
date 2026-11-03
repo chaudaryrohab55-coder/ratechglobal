@@ -50,8 +50,8 @@ red: {
           "100%": { backgroundPosition: "200% 0" },
         },
         "glow-pulse": {
-          "0%,100%": { boxShadow: "0 0 8px #ef4444, 0 0 16px rgba(239,68,68,0.5)" },
-          "50%": { boxShadow: "0 0 16px #ef4444, 0 0 32px rgba(239,68,68,0.8)" },
+          "0%,100%": { boxShadow: "0 0 8px #38bdf8, 0 0 16px rgba(14,165,233,0.5)" },
+          "50%": { boxShadow: "0 0 16px #38bdf8, 0 0 32px rgba(14,165,233,0.8)" },
         },
       },
     },

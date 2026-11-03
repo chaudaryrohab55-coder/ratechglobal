@@ -142,7 +142,7 @@ export function CTASection() {
             ))}
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
-            <Link href="/consultation" className="btn-primary text-base py-4 px-10 inline-flex justify-center shadow-[0_0_30px_rgba(239,68,68,0.4)]">
+            <Link href="/consultation" className="btn-primary text-base py-4 px-10 inline-flex justify-center shadow-[0_0_30px_rgba(14,165,233,0.4)]">
               {t("cta_book_free")} <ArrowRight size={17} />
             </Link>
             <a href={SITE.social.whatsapp} target="_blank" rel="noopener noreferrer" className="btn-ghost text-base py-4 px-8 justify-center inline-flex">

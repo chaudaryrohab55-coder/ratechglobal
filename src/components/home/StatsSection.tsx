@@ -43,7 +43,7 @@ export default function StatsSection() {
   const { t } = useLanguage();
   return (
     <section className="py-20 relative overflow-hidden">
-      <div className="absolute inset-0" style={{ background: "radial-gradient(ellipse at 50% 50%, rgba(239,68,68,0.07) 0%, transparent 70%)" }} />
+      <div className="absolute inset-0" style={{ background: "radial-gradient(ellipse at 50% 50%, rgba(14,165,233,0.07) 0%, transparent 70%)" }} />
       <div className="container relative z-10">
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
           {STATS.map((s, i) => (

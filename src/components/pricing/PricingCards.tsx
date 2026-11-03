@@ -95,7 +95,7 @@ export function PricingCards() {
               viewport={{ once: true }} transition={{ delay: i * 0.08 }}
               className={`group relative rounded-2xl overflow-hidden h-full flex flex-col justify-between transition-all duration-300 ${
                 popular
-                  ? "border-2 border-red-500/60 bg-gradient-to-b from-red-500/10 to-[var(--bg-card)] shadow-[0_18px_50px_rgba(239,68,68,0.18)] xl:scale-[1.03]"
+                  ? "border-2 border-red-500/60 bg-gradient-to-b from-red-500/10 to-[var(--bg-card)] shadow-[0_18px_50px_rgba(14,165,233,0.18)] xl:scale-[1.03]"
                   : "border border-[var(--border-2)] bg-[var(--bg-card)] hover:border-red-500/30 hover:-translate-y-1"
               }`}
               style={{ background: popular ? undefined : "var(--bg-card)" }}
@@ -154,7 +154,7 @@ export function PricingCards() {
                     href={plan.href}
                     className={`block w-full text-center py-3 px-5 rounded-xl font-bold text-sm transition-all ${
                       popular
-                        ? "bg-gradient-to-r from-red-500 to-red-700 text-white hover:shadow-[0_0_24px_rgba(239,68,68,0.45)] hover:-translate-y-0.5"
+                        ? "bg-gradient-to-r from-red-500 to-red-700 text-white hover:shadow-[0_0_24px_rgba(14,165,233,0.45)] hover:-translate-y-0.5"
                         : "bg-[var(--surface-soft-2)] text-[var(--text)] border border-[var(--border-2)] hover:border-red-500/40 hover:-translate-y-0.5"
                     }`}
                   >

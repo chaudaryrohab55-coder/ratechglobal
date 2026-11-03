@@ -88,7 +88,7 @@ export default function AboutSection() {
             </div>
 
             {/* Floating badge (Clickable link to pricing or case studies) */}
-            <Link href="/portfolio" className="absolute -bottom-5 -right-4 card px-5 py-4 shadow-[0_0_30px_rgba(239,68,68,0.2)] hover:scale-105 transition-transform duration-300">
+            <Link href="/portfolio" className="absolute -bottom-5 -right-4 card px-5 py-4 shadow-[0_0_30px_rgba(14,165,233,0.2)] hover:scale-105 transition-transform duration-300">
               <p className="text-2xl font-black gradient-text">$50K+</p>
               <p className="text-xs text-slate-500">Ad Spend Managed</p>
             </Link>

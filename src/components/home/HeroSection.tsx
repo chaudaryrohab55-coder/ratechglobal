@@ -48,7 +48,7 @@ function Particles() {
           if (p.y < 0) p.y = H; if (p.y > H) p.y = 0;
           ctx.beginPath();
           ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-          ctx.fillStyle = `rgba(239,68,68,${p.a})`;
+          ctx.fillStyle = `rgba(14,165,233,${p.a})`;
           ctx.fill();
         });
         // connections
@@ -59,7 +59,7 @@ function Particles() {
               ctx.beginPath();
               ctx.moveTo(pts[i].x, pts[i].y);
               ctx.lineTo(pts[j].x, pts[j].y);
-              ctx.strokeStyle = `rgba(239,68,68,${0.06 * (1 - d / 130)})`;
+              ctx.strokeStyle = `rgba(14,165,233,${0.06 * (1 - d / 130)})`;
               ctx.lineWidth = 0.5;
               ctx.stroke();
             }
@@ -106,7 +106,7 @@ function Globe3D() {
 
       {/* Globe shell */}
       <div
-        className="absolute inset-6 rounded-full overflow-hidden shadow-[0_0_80px_rgba(239,68,68,0.25)] border border-red-500/20"
+        className="absolute inset-6 rounded-full overflow-hidden shadow-[0_0_80px_rgba(14,165,233,0.25)] border border-red-500/20"
         style={{ background: "radial-gradient(ellipse at 30% 30%, #1a0a14 0%, #0a0210 50%, #020205 100%)" }}
       >
         {/* Latitude lines */}
@@ -141,7 +141,7 @@ function Globe3D() {
       {/* Orbiting dots */}
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="orbit-1 relative">
-          <div className="w-2.5 h-2.5 rounded-full bg-red-400 shadow-[0_0_10px_rgba(239,68,68,0.9)]" />
+          <div className="w-2.5 h-2.5 rounded-full bg-red-400 shadow-[0_0_10px_rgba(14,165,233,0.9)]" />
         </div>
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
@@ -151,7 +151,7 @@ function Globe3D() {
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="orbit-3 relative">
-          <div className="w-1.5 h-1.5 rounded-full bg-red-300 shadow-[0_0_6px_rgba(239,68,68,0.7)]" />
+          <div className="w-1.5 h-1.5 rounded-full bg-red-300 shadow-[0_0_6px_rgba(14,165,233,0.7)]" />
         </div>
       </div>
 
@@ -204,7 +204,7 @@ export default function HeroSection() {
       {/* Dot grid */}
       <div
         className="absolute inset-0 pointer-events-none opacity-[0.035]"
-        style={{ backgroundImage:"radial-gradient(circle, rgba(239,68,68,0.8) 1px, transparent 1px)", backgroundSize:"40px 40px" }}
+        style={{ backgroundImage:"radial-gradient(circle, rgba(14,165,233,0.8) 1px, transparent 1px)", backgroundSize:"40px 40px" }}
       />
       <Particles />
 

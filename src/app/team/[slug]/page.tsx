@@ -162,7 +162,7 @@ export default async function MemberPage({ params }: { params: { slug: string } 
 
           <div className="grid md:grid-cols-[minmax(0,340px)_1fr] gap-10 lg:gap-14 items-start">
             <div className="mx-auto md:mx-0 w-full max-w-[340px]">
-              <div className="relative aspect-[4/5] rounded-3xl overflow-hidden ring-1 ring-white/15 shadow-[0_25px_80px_-15px_rgba(239,68,68,0.35)]">
+              <div className="relative aspect-[4/5] rounded-3xl overflow-hidden ring-1 ring-white/15 shadow-[0_25px_80px_-15px_rgba(14,165,233,0.35)]">
                 <div className="absolute -inset-1 bg-gradient-to-tr from-red-600/30 via-transparent to-rose-500/20 blur-2xl -z-10" />
                 <Image src={m.photo_url} alt={m.full_name} fill className="object-cover"
                   style={{ objectPosition: objPos }} sizes="(max-width: 768px) 90vw, 340px" priority />

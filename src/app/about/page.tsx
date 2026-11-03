@@ -6,7 +6,7 @@ import StatsSection from "@/components/home/StatsSection";
 import { CTASection } from "@/components/home/SiteSections";
 
 export const metadata: Metadata = {
-  title: "About Us — Ratech Global Digital Agency",
+  title: "About Us — Digital Marketing Agency",
   description: "Learn about Ratech Global — our story, mission, values, and the team behind results-driven digital marketing agency.",
   alternates: { canonical: "/about" },
 };

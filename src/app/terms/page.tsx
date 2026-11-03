@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions — Ratech Global",
+    title: "Terms & Conditions",
   description: "Ratech Global terms and conditions for digital marketing services.",
   alternates: { canonical: "/terms" },
 };

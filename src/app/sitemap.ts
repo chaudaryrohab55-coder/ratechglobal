@@ -10,6 +10,7 @@ const pages = [
   { url: '/services/meta-ads', pri: 0.9, chg: 'monthly' as const },
   { url: '/services/google-ads', pri: 0.9, chg: 'monthly' as const },
   { url: '/services/seo', pri: 0.9, chg: 'monthly' as const },
+  { url: '/services/ai-search-optimization', pri: 0.9, chg: 'monthly' as const },
   { url: '/services/social-media', pri: 0.8, chg: 'monthly' as const },
   { url: '/services/youtube-automation', pri: 0.9, chg: 'monthly' as const },
   { url: '/services/web-development', pri: 0.8, chg: 'monthly' as const },

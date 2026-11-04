@@ -45,7 +45,7 @@ export const BLOG_POSTS = [
 
 <h2>The bottom line</h2>
 <p>AI search isn't replacing SEO — it's raising the bar. The businesses that win in 2026 are the ones that are crawlable, answer questions clearly, use structured data, and build real authority. Do that, and you get recommended by the tools your customers now trust most.</p>
-
+   <p>Learn more about our <a href="/services/ai-search-optimization">AI Search Optimization service</a> for businesses in the UAE, Saudi Arabia and Qatar.</p>
 <p>Want to be the business AI recommends in your market? <a href="/consultation">Book a free consultation</a> and we'll build you an SEO + AEO + GEO plan.</p>
 `,
   },

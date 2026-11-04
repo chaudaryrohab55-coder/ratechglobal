@@ -64,7 +64,7 @@ export default function ServicesSection() {
           className="mt-12 funnel-strip rounded-2xl overflow-hidden"
         >
           <div className="max-w-4xl mx-auto flex items-center justify-between gap-4 px-6 py-5 flex-wrap">
-            <p className="text-white font-bold text-sm md:text-base">🚀 Free Strategy Consultation — Limited Slots This Month</p>
+            <p className="text-white font-bold text-sm md:text-base">🚀 Free Strategy Consultation — for New Clients</p>
             <Link href="/consultation" className="flex-shrink-0 px-5 py-2.5 rounded-xl bg-white text-red-600 font-bold text-sm hover:bg-slate-50 transition-colors flex items-center gap-1">
               Book Now <ArrowRight size={14}/>
             </Link>

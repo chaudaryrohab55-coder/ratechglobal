@@ -248,6 +248,34 @@ export function serviceQuickAnswer(svc: Service): string {
  * 12 service pages ships unique, factual Q&A (and FAQPage structured data).
  */
 export function serviceFaqs(svc: Service): { q: string; a: string }[] {
+    if (svc.id === "ai-search-optimization") {
+    return [
+      {
+        q: "What is AI search optimization (GEO and AEO)?",
+        a: "AI search optimization is the work of making your business easy for AI assistants and AI search features, such as ChatGPT, Gemini, Perplexity and Google AI Overviews, to understand and mention. GEO (generative engine optimization) focuses on being cited in AI-written answers, while AEO (answer engine optimization) focuses on giving clear, direct answers to customer questions.",
+      },
+      {
+        q: "How is AI search optimization different from traditional SEO?",
+        a: "Traditional SEO helps your pages rank in a list of links. AI search optimization builds on that base and adds clear business information, structured data, question-and-answer content and an llms.txt file, so AI tools can summarize and cite your business accurately. Strong technical SEO is still the foundation, so we do both together.",
+      },
+      {
+        q: "Can you guarantee my business will appear in ChatGPT or Google AI answers?",
+        a: "No. No honest agency can guarantee citations or rankings, because AI systems and search engines make their own decisions and change often. We improve the signals you control: clear content, structured data, consistent business information and technical health, and we report what changes over time.",
+      },
+      {
+        q: "Do you work with businesses in the UAE, Saudi Arabia and Qatar?",
+        a: "Yes. Ratech Global is based in Sahiwal, Pakistan and works remotely with clients in the UAE, Saudi Arabia, Qatar, the UK, the USA and Pakistan. We can prepare content in English and Arabic, and we stay in touch by WhatsApp, email and video calls across time zones.",
+      },
+      {
+        q: "What do you do in the first month?",
+        a: "We start with an audit of your website, your competitors and how AI tools currently describe your brand. Then we fix technical issues, set up structured data and an llms.txt file, improve your key service pages and FAQ content, and set up tracking so progress can be measured.",
+      },
+      {
+        q: "How long does it take to see results?",
+        a: "Technical and content improvements can be picked up within weeks, but visibility in AI answers usually builds over three to six months and depends on your industry and competition. We set realistic expectations in the free consultation and share regular progress updates.",
+      },
+    ];
+  }
   const title = svc.title.replace(/ Services?$/i, "");
   const resultLine = svc.results ? ` Clients typically see results like ${svc.results.toLowerCase()}.` : "";
   return [

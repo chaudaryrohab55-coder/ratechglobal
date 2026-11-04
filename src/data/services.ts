@@ -72,7 +72,7 @@ export const SERVICES: Service[] = [
     titleAr: "تحسين الظهور في بحث الذكاء الاصطناعي",
     shortDesc: "Get your brand understood and cited by ChatGPT, Gemini, Perplexity and Google AI answers.",
     shortDescAr: "اجعل علامتك التجارية مفهومة ومذكورة في إجابات ChatGPT وGemini وPerplexity وبحث جوجل.",
-    fullDesc: "Ratech Global helps businesses in the UAE, Saudi Arabia, Qatar and beyond prepare for AI search. We combine answer engine optimization (AEO) and generative engine optimization (GEO) with solid technical SEO: clear brand and service pages, structured data, question-and-answer content, an llms.txt file, and bilingual English and Arabic content, so AI assistants and search engines can understand your business and mention it when customers ask. We do not promise guaranteed rankings or citations; we focus on the work that makes your business easier to find, understand and trust.",
+    fullDesc: "We help businesses in the UAE, Saudi Arabia, Qatar and beyond prepare for AI search. We combine answer engine optimization (AEO) and generative engine optimization (GEO) with solid technical SEO: clear brand and service pages, structured data, question-and-answer content, an llms.txt file, and bilingual English and Arabic content, so AI assistants and search engines can understand your business and mention it when customers ask. We do not promise guaranteed rankings or citations; we focus on the work that makes your business easier to find, understand and trust.",
     icon: "🤖",
     category: "Marketing",
     features: ["AEO & GEO Strategy","Schema Markup","FAQ & Q&A Content","llms.txt Setup","Entity & Brand Clarity","Technical SEO Audit","Arabic & English Content","Monthly Reports"],

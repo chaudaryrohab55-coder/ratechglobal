@@ -244,7 +244,7 @@ export default function HeroSection() {
               className="flex flex-wrap gap-2 mb-8"
             >
               {[
-                { icon:<CheckCircle size={13}/>, text:"ROI Guaranteed" },
+                { icon:<CheckCircle size={13}/>, text:"ROI-Focused" },
                 { icon:<CheckCircle size={13}/>, text:"24hr Support" },
                 { icon:<Users size={13}/>,        text:"Real Results" },
                 { icon:<TrendingUp size={13}/>,    text:"5 Markets" },

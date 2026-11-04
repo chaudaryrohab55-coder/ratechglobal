@@ -84,7 +84,7 @@ export default function HeroAC() {
             </div>
 
             <Chip color="#0ea5e9" className="hero-chip-1 right-3 top-6 sm:-right-4">
-              ROI guaranteed
+              ROI-focused
             </Chip>
             <Chip color="#22d3ee" className="hero-chip-2 left-3 top-[44%] sm:-left-8">
               24hr support

@@ -1,4 +1,45 @@
 export const BLOG_POSTS = [
+    {
+    slug: "geo-vs-aeo-vs-seo-difference",
+    title: "GEO vs AEO vs SEO: What Is the Difference?",
+    excerpt: "SEO, AEO and GEO sound alike but do different jobs. A simple explanation of each, how they work together, and what they mean for businesses in the UAE, Saudi Arabia and Qatar.",
+    category: "AI & AEO",
+    author: "Ratech Global Team",
+    date: "Nov 4, 2026",
+    readTime: "5 min",
+    image: "/images/blog-how-to-rank-in-ai-search-2026.png",
+    tags: ["GEO","AEO","SEO","AI Search"],
+    content: `
+<p>If you have started reading about AI search, you have probably seen three acronyms: SEO, AEO and GEO. They sound similar, and agencies often use them as if they mean the same thing. They do not. Here is a simple explanation of each, and what they mean for a business in the UAE, Saudi Arabia or Qatar.</p>
+
+<h2>SEO: getting ranked</h2>
+<p>Search engine optimization (SEO) is the work of helping your pages rank in search results on Google and Bing. It covers technical health, relevant content, page speed and links from other websites. The goal is that when someone searches, your page appears in the list of results and they click through to your site.</p>
+
+<h2>AEO: giving the answer</h2>
+<p>Answer engine optimization (AEO) is about being the direct answer. When someone asks a question, Google may show a featured snippet, a People Also Ask box or an AI Overview, and voice assistants read out a single answer. AEO means writing clear question-and-answer content, using headings that match real questions, and adding structured data such as FAQ schema so machines can lift your answer cleanly.</p>
+
+<h2>GEO: being mentioned</h2>
+<p>Generative engine optimization (GEO) is about being cited inside answers written by AI tools such as ChatGPT, Gemini, Perplexity and Claude. These tools do not show ten links. They write a response and sometimes name businesses or sources. GEO means making your business easy to understand and trust: consistent facts about who you are and what you do, clear service pages, real mentions on other websites, and files such as llms.txt that explain your site to AI crawlers.</p>
+
+<h2>Side by side</h2>
+<ul>
+<li><strong>SEO</strong> — goal: rank in a list of results. Main signals: relevance, technical health and links.</li>
+<li><strong>AEO</strong> — goal: be the direct answer. Main signals: clear question-and-answer content and structured data.</li>
+<li><strong>GEO</strong> — goal: be named in AI-written answers. Main signal: consistent, trustworthy information about your brand across the web.</li>
+</ul>
+
+<h2>Do you need all three?</h2>
+<p>Yes, but not all at once. SEO is the foundation, because both search engines and AI tools rely on a website that can be crawled and understood. Once the basics are healthy, AEO and GEO build on top of them. If your website is slow, unclear or missing basic pages, fixing that will help you more than any new acronym.</p>
+
+<h2>Why this matters in the Gulf</h2>
+<p>Customers in the UAE, Saudi Arabia and Qatar search in both English and Arabic, and many now use AI assistants for recommendations. A business with clear English and Arabic pages, consistent contact details and good answers to common questions is easier for both search engines and AI tools to understand.</p>
+
+<h2>What an honest agency cannot promise</h2>
+<p>No one can guarantee that ChatGPT or Google will mention your business. These systems make their own decisions and change often. What we can do is improve the things you control and measure what changes.</p>
+
+<p>Want help with all three? Learn about our <a href="/services/ai-search-optimization">AI Search Optimization service</a>, or <a href="/consultation">book a free consultation</a>.</p>
+`,
+  },
   {
     slug: "how-to-rank-in-ai-search-2026",
     title: "How to Show Up in AI Search (ChatGPT, Perplexity & Google AI) in 2026",

@@ -7,7 +7,7 @@ const FOUNDER_ROLE = "Founder & CEO";
 const WHATSAPP_URL = "https://wa.me/923168612919";
 
 const stats = [
-  { value: "4x+", label: "Avg ROAS on Meta Ads" },
+  { value: "120+", label: "Projects delivered" },
   { value: "40+", label: "Happy clients" },
   { value: "24h", label: "Average response time" },
   { value: "5", label: "Markets served" },

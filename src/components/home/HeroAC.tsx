@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
 
-const FOUNDER_NAME = "ROHAB ABDULLLAH";
+const FOUNDER_NAME = "ROHAB ABDULLAH";
 const FOUNDER_ROLE = "Founder & CEO";
 const WHATSAPP_URL = "https://wa.me/923168612919";
 

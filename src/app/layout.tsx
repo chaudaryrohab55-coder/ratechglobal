@@ -81,12 +81,11 @@ const jsonLd = {
         { "@type": "Country", name: "United States" },
       ],
       sameAs: [
-        "https://www.facebook.com/profile.php?id=61593747190643",
-        "https://www.instagram.com/ratech_global/",
-        "https://www.tiktok.com/@ratechglobal",
-        "https://www.linkedin.com/in/ratech-global-undefined-009246449/",
-        "https://www.youtube.com/@ratechglobal",
-      ],
+  "https://www.facebook.com/profile.php?id=61593747190643",
+  "https://www.instagram.com/ratech_global/",
+  "https://www.tiktok.com/@ratechglobal",
+  "https://www.crunchbase.com/organization/7b3fa96b-95a4-4b0d-8fd5-975db4f3df83",
+],
     },
     {
       "@type": "WebSite",
@@ -131,13 +130,12 @@ const jsonLd = {
           closes: "17:00",
         },
       ],
-      sameAs: [
-        "https://www.facebook.com/profile.php?id=61593747190643",
-        "https://www.instagram.com/ratech_global/",
-        "https://www.tiktok.com/@ratechglobal",
-        "https://www.linkedin.com/in/ratech-global-undefined-009246449/",
-        "https://www.youtube.com/@ratechglobal",
-      ],
+     sameAs: [
+  "https://www.facebook.com/profile.php?id=61593747190643",
+  "https://www.instagram.com/ratech_global/",
+  "https://www.tiktok.com/@ratechglobal",
+  "https://www.crunchbase.com/organization/7b3fa96b-95a4-4b0d-8fd5-975db4f3df83",
+],
     },
   ],
 };

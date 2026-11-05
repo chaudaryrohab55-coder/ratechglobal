@@ -1,5 +1,43 @@
 export const BLOG_POSTS = [
     {
+    slug: "seo-in-saudi-arabia-arabic-english-guide",
+    title: "SEO in Saudi Arabia: How to Get Found in Arabic and English Search",
+    excerpt: "A practical guide for Saudi businesses on ranking in Google in both Arabic and English: keywords, Google Business Profile, content, and how AI search fits in.",
+    category: "SEO",
+    author: "Ratech Global Team",
+    date: "Nov 5, 2026",
+    readTime: "6 min",
+    image: "/images/blog-seo-in-saudi-arabia-arabic-english-guide.png",
+    tags: ["SEO","Saudi Arabia","Arabic SEO","Local SEO"],
+    content: `
+<p>If you run a business in Saudi Arabia, your customers search in two languages. Some type in Arabic, some in English, and many switch between the two depending on what they are looking for. A website that only serves one of them leaves customers on the table. This guide explains how to approach SEO for the Saudi market in a practical, honest way.</p>
+
+<h2>1. Research keywords in both languages</h2>
+<p>Do not just translate your English keywords into Arabic. People search differently in each language. Write down the services you offer, then check how real customers phrase them in Arabic and in English. Use Google autocomplete, the "People also ask" box, and a keyword tool to compare. Group the keywords by intent: people who want to learn, people comparing options, and people ready to buy or call.</p>
+
+<h2>2. Set up proper Arabic pages</h2>
+<p>An Arabic page should be written by someone who is comfortable in the language, not pasted from a machine translation. Use right-to-left layout, an Arabic title and description, and clear headings. Link the Arabic and English versions of a page to each other with hreflang tags, so Google knows which version to show to which user.</p>
+
+<h2>3. Claim and complete your Google Business Profile</h2>
+<p>For local searches such as a service plus a city name, your Google Business Profile matters a lot. Add your correct business name, address, phone number, opening hours, categories and photos. Reply to reviews, and ask happy customers to leave an honest review. Keep your details identical on your website and on every directory.</p>
+
+<h2>4. Write content that answers real questions</h2>
+<p>Pages that answer a clear question, in plain language, do well in both normal search and AI answers. Use a question as a heading, answer it in the first two sentences, then add detail. Add an FAQ section to your key service pages and mark it up with FAQ schema.</p>
+
+<h2>5. Fix the technical basics</h2>
+<p>Make sure your site loads fast on mobile, uses HTTPS, has a sitemap submitted in Google Search Console, and has one clear canonical URL per page. These basics are not exciting, but a slow or broken site can hold back everything else.</p>
+
+<h2>6. Prepare for AI search</h2>
+<p>More people now ask ChatGPT, Gemini and Perplexity for recommendations. These tools prefer sources that are clear, consistent and well structured. Describe your business clearly on your About page, keep your name and details consistent everywhere, and publish helpful content in both languages. Nobody can guarantee that an AI tool will mention your business, but a clear and trustworthy site gives you a better chance.</p>
+
+<h2>What to expect</h2>
+<p>SEO is not instant. For most businesses it takes a few months of steady work before the results become visible, and no honest agency can promise a specific ranking. What you can do is build a strong foundation: the right keywords, good pages in both languages, a complete Google Business Profile and a technically healthy site.</p>
+
+<h2>Need help?</h2>
+<p>Ratech Global works with businesses in Saudi Arabia, the UAE, Qatar and Pakistan on SEO, AEO and GEO. If you would like an honest review of your current website, <a href="/consultation">book a free consultation</a> and we will tell you where the biggest opportunities are.</p>
+`,
+  },
+    {
     slug: "geo-vs-aeo-vs-seo-difference",
     title: "GEO vs AEO vs SEO: What Is the Difference?",
     excerpt: "SEO, AEO and GEO sound alike but do different jobs. A simple explanation of each, how they work together, and what they mean for businesses in the UAE, Saudi Arabia and Qatar.",

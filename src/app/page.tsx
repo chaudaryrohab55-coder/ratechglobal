@@ -14,7 +14,7 @@ import PricingCalculator from "@/components/pricing/PricingCalculator";
 import ContactForm from "@/components/contact/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Ratech Global — Results-Driven Digital Marketing Agency",
+  title: "SEO & Digital Marketing for UAE, Saudi & Pakistan | Ratech Global",
   description:
     "results-driven digital marketing agency. Meta Ads, Google Ads, SEO, YouTube Automation, Shopify & AI. Serving businesses in Pakistan, UAE, UK & USA. Book free consultation.",
   alternates: { canonical: "https://www.ratechglobal.com" },

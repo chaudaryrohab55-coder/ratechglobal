@@ -12,7 +12,7 @@ export const SITE = {
     facebook:  "https://www.facebook.com/profile.php?id=61593747190643",
     tiktok:    "https://www.tiktok.com/@ratechglobal",
     whatsapp:  "https://wa.me/923168612919",
-    linkedin:  "https://www.linkedin.com/in/ratech-global-undefined-009246449/",
+    linkedin: "https://www.linkedin.com/in/rohab-abdullah-951585272/",
     instagram: "https://www.instagram.com/ratech_global/",
     youtube:   "https://www.youtube.com/@ratechglobal",
   },

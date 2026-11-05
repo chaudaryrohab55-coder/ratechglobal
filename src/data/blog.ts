@@ -7,7 +7,7 @@ export const BLOG_POSTS = [
     author: "Ratech Global Team",
     date: "Nov 4, 2026",
     readTime: "5 min",
-    image: "/images/blog-how-to-rank-in-ai-search-2026.png",
+    image: "/images/blog-geo-vs-aeo-vs-seo-difference.png",
     tags: ["GEO","AEO","SEO","AI Search"],
     content: `
 <p>If you have started reading about AI search, you have probably seen three acronyms: SEO, AEO and GEO. They sound similar, and agencies often use them as if they mean the same thing. They do not. Here is a simple explanation of each, and what they mean for a business in the UAE, Saudi Arabia or Qatar.</p>

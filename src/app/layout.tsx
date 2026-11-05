@@ -26,7 +26,6 @@ export const metadata: Metadata = {
   creator: "Ratech Global",
   openGraph: {
     type: "website", locale: "en_PK",
-    url: "https://www.ratechglobal.com",
     siteName: "Ratech Global",
     title: "Ratech Global — Results-Driven Digital Marketing Agency",
     description: "Meta Ads, Google Ads, SEO, YouTube Automation, Shopify & AI. Serving businesses in Pakistan, UAE, UK & USA.",

@@ -45,12 +45,11 @@ export default function HeroAC() {
               Grow your business online
             </span>
             <h1 className="font-display mt-6 text-4xl font-bold leading-[1.1] text-white sm:text-5xl lg:text-[58px]">
-              Pakistan&rsquo;s results-driven{" "}
-              <span className="text-sky-400">digital marketing</span> agency
-            </h1>
+  Results-driven{" "}
+  <span className="text-sky-400">digital marketing</span> agency
+</h1>
             <p className="mt-6 max-w-[560px] text-lg leading-relaxed">
-              Meta Ads, Google Ads, SEO, Shopify and web development, with real,
-              measurable ROI for businesses at home and worldwide.
+              SEO, AI search optimization, Meta Ads, Shopify and web development for growing businesses in the UAE, Saudi Arabia, Qatar and Pakistan.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link

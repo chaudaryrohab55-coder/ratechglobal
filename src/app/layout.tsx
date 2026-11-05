@@ -11,7 +11,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.ratechglobal.com"),
   title: {
-    default: "Digital Marketing Agency in Pakistan | Ratech Global",
+    default: "SEO & Digital Marketing for UAE, Saudi & Pakistan | Ratech Global",
     template: "%s | Ratech Global",
   },
   description:
@@ -27,13 +27,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website", locale: "en_PK",
     siteName: "Ratech Global",
-    title: "Ratech Global — Results-Driven Digital Marketing Agency",
+    title: "SEO & Digital Marketing for UAE, Saudi & Pakistan | Ratech Global",
     description: "Meta Ads, Google Ads, SEO, YouTube Automation, Shopify & AI. Serving businesses in Pakistan, UAE, UK & USA.",
     images: [{ url: "/logo.png", width: 1200, height: 630, alt: "Ratech Global Digital Agency" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ratech Global — Results-Driven Digital Marketing Agency",
+    title: "SEO & Digital Marketing for UAE, Saudi & Pakistan | Ratech Global",
     description: "Meta Ads, Google Ads, SEO, YouTube Automation & more. Proven results.",
     creator: "@ratechglobal",
   },

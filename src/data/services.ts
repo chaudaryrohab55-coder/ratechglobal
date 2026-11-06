@@ -56,7 +56,7 @@ export const SERVICES: Service[] = [
     titleAr: "خدمات تحسين محركات البحث",
     shortDesc: "Dominate search rankings and drive organic traffic that converts.",
     shortDescAr: "تصدّر نتائج البحث واجذب زيارات عضوية تتحول إلى عملاء.",
-    fullDesc: "Ratech Global provides expert SEO services in Pakistan — combining technical SEO, keyword research, authoritative content and precision link-building to rank your business on Google and drive organic traffic that converts. As dedicated SEO experts, we focus on local and national rankings that bring real, long-term leads.",
+    fullDesc: "Ratech Global provides expert SEO services for businesses in the UAE, Saudi Arabia, Qatar and Pakistan — combining technical SEO, keyword research, authoritative content and precision link-building to rank your business on Google and drive organic traffic that converts. As dedicated SEO experts, we focus on local and national rankings that bring real, long-term leads.",
     icon: "🔍",
     category: "Marketing",
     features: ["Keyword Research","On-Page SEO","Technical Audit","Link Building","Local SEO","Schema Markup","Core Web Vitals","Monthly Reports"],
@@ -236,7 +236,7 @@ export const SERVICES: Service[] = [
  */
 export function serviceQuickAnswer(svc: Service): string {
   const priceLine = `Plans start from PKR ${svc.pricePkr.toLocaleString()}/month in Pakistan (from $${svc.priceUsd}/month internationally).`;
-  return `${svc.title} at Ratech Global means ${svc.fullDesc.charAt(0).toLowerCase()}${svc.fullDesc.slice(1)} ${priceLine}`;
+return `${svc.fullDesc} ${priceLine}`;
 }
 
 /**

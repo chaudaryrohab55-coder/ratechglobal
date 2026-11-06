@@ -1,5 +1,48 @@
 export const BLOG_POSTS = [
     {
+    slug: "digital-marketing-qatar-small-business-guide",
+    title: "Digital Marketing in Qatar: A Practical Guide for Small Businesses",
+    excerpt: "Where to start with digital marketing in Qatar: Google Business Profile, SEO in Arabic and English, social media, ads and AI search, explained in plain language.",
+    category: "Guides",
+    author: "Ratech Global Team",
+    date: "Nov 6, 2026",
+    readTime: "6 min",
+    image: "/images/blog-digital-marketing-qatar-small-business-guide.png",
+    tags: ["Qatar","Digital Marketing","SEO","Local SEO"],
+    content: `
+<p>Qatar has a modern, connected market where most customers search on their phones before they buy. If you run a small business in Doha or elsewhere in Qatar, the question is not whether to market online, but where to put your time and budget first. This guide gives you a simple order of priorities.</p>
+
+<h2>1. Start with the basics people see first</h2>
+<p>Before spending on ads, make sure your business looks credible online. You need a clear website that loads quickly on mobile, shows what you offer, and makes it easy to call or message you on WhatsApp. Put your real address, phone number and opening hours on the site, and keep them identical everywhere.</p>
+
+<h2>2. Claim your Google Business Profile</h2>
+<p>When someone searches for a service near them, Google shows a map and a short list of businesses. A complete Google Business Profile with the right category, photos, hours and honest reviews is one of the best low-cost ways to be seen. Ask satisfied customers for reviews and reply to every one.</p>
+
+<h2>3. Do SEO in both Arabic and English</h2>
+<p>Customers in Qatar search in Arabic, in English, or in both. Plan pages for the services people actually look for, write them in clear language, and add an FAQ section that answers real questions. SEO takes time, usually a few months before results show, but the traffic it builds is steady and does not stop when you stop paying.</p>
+
+<h2>4. Use social media where your customers are</h2>
+<p>Pick one or two platforms instead of trying to be everywhere. Instagram and Facebook work well for many local businesses, and LinkedIn works well for business-to-business services. Post useful content, show real work, and respond to messages quickly.</p>
+
+<h2>5. Add paid ads once the foundation is ready</h2>
+<p>Google Ads and Meta Ads can bring leads faster than SEO, but they work best when your website and offer are already clear. Start with a small budget, track every enquiry, and adjust based on what actually produces customers, not only clicks.</p>
+
+<h2>6. Get ready for AI search</h2>
+<p>People now also ask ChatGPT, Gemini and Perplexity for recommendations. These tools tend to trust businesses that are described clearly and consistently across the web. Keep your details the same everywhere, publish helpful answers to common questions, and structure your pages with clear headings. No one can guarantee a mention, but this makes your business easier to understand and cite.</p>
+
+<h2>A simple order to follow</h2>
+<ul>
+<li>Week 1: fix your website basics and your Google Business Profile</li>
+<li>Weeks 2 to 4: publish your main service pages and FAQs</li>
+<li>Month 2 onward: start a small ad budget and keep adding helpful content</li>
+<li>Every month: review enquiries, reviews and what is working</li>
+</ul>
+
+<h2>Need a hand?</h2>
+<p>Ratech Global helps businesses in Qatar, the UAE, Saudi Arabia and Pakistan with SEO, AEO, GEO and paid ads. If you want an honest review of your current online presence, <a href="/consultation">book a free consultation</a> and we will point out the best first steps.</p>
+`,
+  },
+    {
     slug: "seo-in-saudi-arabia-arabic-english-guide",
     title: "SEO in Saudi Arabia: How to Get Found in Arabic and English Search",
     excerpt: "A practical guide for Saudi businesses on ranking in Google in both Arabic and English: keywords, Google Business Profile, content, and how AI search fits in.",

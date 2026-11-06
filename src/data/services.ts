@@ -280,8 +280,8 @@ export function serviceFaqs(svc: Service): { q: string; a: string }[] {
   const resultLine = svc.results ? ` Clients typically see results like ${svc.results.toLowerCase()}.` : "";
   return [
     {
-      q: `How much does ${title} cost in Pakistan?`,
-      a: `${title} at Ratech Global starts from PKR ${svc.pricePkr.toLocaleString()}/month for Pakistani businesses (around $${svc.priceUsd}/month for international clients), plus any ad budget. The exact price depends on your goals and scope — book a free consultation for a tailored quote.`,
+      q: `How much does ${title} cost?`,
+      a: `${title} at Ratech Global starts from PKR ${svc.pricePkr.toLocaleString()}/month for businesses in Pakistan (around $${svc.priceUsd}/month for clients in the UAE, Saudi Arabia, Qatar and elsewhere), plus any ad budget. The exact price depends on your goals and scope — book a free consultation for a tailored quote.`,
     },
     {
       q: `What does your ${title} service include?`,

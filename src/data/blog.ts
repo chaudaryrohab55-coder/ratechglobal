@@ -1,5 +1,64 @@
 export const BLOG_POSTS = [
     {
+    slug: "seo-digital-marketing-cost-uae-saudi",
+    title: "How Much Does SEO and Digital Marketing Cost in the UAE and Saudi Arabia?",
+    excerpt: "What decides the price of SEO, ads and social media management in the UAE and Saudi Arabia, what is usually included, and how to compare quotes without overpaying.",
+    category: "Guides",
+    author: "Ratech Global Team",
+    date: "Nov 8, 2026",
+    readTime: "7 min",
+    image: "/images/blog-seo-digital-marketing-cost-uae-saudi.png",
+    tags: ["UAE","Saudi Arabia","Pricing","SEO","Digital Marketing"],
+    content: `
+<p>"How much does digital marketing cost?" is one of the most common questions business owners ask before they hire an agency. The honest answer is that there is no single price. Costs depend on your goals, your competition and the work needed. This guide explains what drives the price in the UAE and Saudi Arabia, so you can compare quotes with confidence.</p>
+
+<h2>What decides the price</h2>
+<ul>
+<li><strong>Your goal.</strong> Getting more local enquiries needs less work than ranking nationwide for a competitive keyword.</li>
+<li><strong>Competition.</strong> Dubai and Riyadh are busy markets. The more competitors in your niche, the more effort it takes to stand out.</li>
+<li><strong>Language.</strong> Working in both Arabic and English means more pages and more content.</li>
+<li><strong>Your website today.</strong> A site with technical problems needs fixing before growth work begins.</li>
+<li><strong>Scope.</strong> A single service, such as SEO, costs less than SEO, ads, social media and content together.</li>
+</ul>
+
+<h2>The main services and how they are priced</h2>
+<h3>SEO</h3>
+<p>SEO is usually a monthly retainer, because the work continues over time: technical fixes, content, local listings and reporting. Expect results to take a few months, and be careful of anyone who promises a guaranteed ranking.</p>
+
+<h3>Google Ads and Meta Ads</h3>
+<p>Paid ads have two costs: the <strong>ad budget</strong> that goes to Google or Meta, and the <strong>management fee</strong> for the person running the campaigns. Always ask which one a quote includes.</p>
+
+<h3>Social media management</h3>
+<p>Pricing depends on how many platforms, how many posts per week, and whether design, video and community replies are included.</p>
+
+<h3>Website design and development</h3>
+<p>This is usually a one-time project price, based on the number of pages, custom features and languages.</p>
+
+<h2>What to ask before you agree to a quote</h2>
+<ol>
+<li>What exactly is included each month?</li>
+<li>Is the ad budget separate from the management fee?</li>
+<li>How and how often will you report results?</li>
+<li>Who will actually work on my account?</li>
+<li>Is there a long contract, and can I cancel?</li>
+</ol>
+
+<h2>Warning signs</h2>
+<ul>
+<li>A guaranteed number one ranking on Google</li>
+<li>A very low price with no clear scope</li>
+<li>No reporting, or reports with only vanity numbers</li>
+<li>Pressure to sign immediately</li>
+</ul>
+
+<h2>How to start with a smaller budget</h2>
+<p>If your budget is limited, start with the basics that give the best return: a clear website, a complete Google Business Profile, and a few strong service pages. Add ads or more content once you can see which enquiries actually become customers.</p>
+
+<h2>Want a clear quote?</h2>
+<p>Ratech Global works with businesses in the UAE, Saudi Arabia, Qatar and Pakistan. <a href="/consultation">Book a free consultation</a> and we will explain what you need, what it should cost, and what results are realistic. You can also see our <a href="/pricing">pricing page</a> and our guides on <a href="/blog/seo-or-google-ads-uae-which-first">SEO or Google Ads in the UAE</a> and <a href="/blog/seo-in-saudi-arabia-arabic-english-guide">SEO in Saudi Arabia</a>.</p>
+`,
+  },
+    {
     slug: "seo-or-google-ads-uae-which-first",
     title: "SEO or Google Ads in the UAE: Which Should You Start With?",
     excerpt: "A plain comparison of SEO and Google Ads for UAE businesses: speed, cost, trust, and how to choose based on your goals and budget.",

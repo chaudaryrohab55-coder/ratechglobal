@@ -40,7 +40,7 @@ export const SERVICES: Service[] = [
     titleAr: "إعلانات جوجل",
     shortDesc: "Capture high-intent buyers at the exact moment they search.",
     shortDescAr: "اجذب المشترين المهتمين في اللحظة المناسبة عند البحث.",
-    fullDesc: "Strategic Google Search, Display, Shopping, and YouTube campaigns with precision targeting and smart bidding for maximum ROI.",
+    fullDesc: "Ratech Global manages Google Search, Display, Shopping and YouTube campaigns for businesses in the UAE, Saudi Arabia, Qatar and Pakistan, with precision targeting, smart bidding and conversion tracking so you can see the cost of every lead. We do not promise guaranteed results, but we report clearly on what your budget produces.",
     icon: "📊",
     category: "Paid Ads",
     features: ["Search Campaigns","Display Ads","Shopping Ads","YouTube Ads","Smart Bidding","Conversion Tracking","Remarketing","Performance Max"],

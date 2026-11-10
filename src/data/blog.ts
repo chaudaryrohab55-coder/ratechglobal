@@ -118,6 +118,7 @@ export const BLOG_POSTS = [
     tags: ["Qatar","Digital Marketing","SEO","Local SEO"],
     content: `
 <p>Qatar has a modern, connected market where most customers search on their phones before they buy. If you run a small business in Doha or elsewhere in Qatar, the question is not whether to market online, but where to put your time and budget first. This guide gives you a simple order of priorities.</p>
+<p>Related: <a href="/blog/seo-in-saudi-arabia-arabic-english-guide">SEO in Saudi Arabia</a></p>
 
 <h2>1. Start with the basics people see first</h2>
 <p>Before spending on ads, make sure your business looks credible online. You need a clear website that loads quickly on mobile, shows what you offer, and makes it easy to call or message you on WhatsApp. Put your real address, phone number and opening hours on the site, and keep them identical everywhere.</p>
@@ -290,6 +291,7 @@ export const BLOG_POSTS = [
     tags: ["SEO","Paid Ads","Marketing Strategy","Budget"],
     content: `
 <p>If you have a limited budget, "should I do SEO or paid ads first?" is one of the most important decisions you'll make. Both bring customers — but they work on very different timelines. Here's a clear, honest comparison to help you choose.</p>
+<p>Related: <a href="/blog/seo-or-google-ads-uae-which-first">SEO or Google Ads in the UAE</a></p>
 
 <h2>The one-line difference</h2>
 <p><strong>Paid ads are rented traffic. SEO is owned traffic.</strong> Ads bring leads the day you switch them on and stop the day you switch them off. SEO takes months to build but keeps working long after — traffic you don't pay for per click.</p>
@@ -384,6 +386,7 @@ export const BLOG_POSTS = [
     tags: ["UK","Small Business","Digital Marketing","Local SEO"],
     content: `
 <p>For a UK small business, digital marketing can feel overwhelming — too many channels, too much jargon, and plenty of agencies happy to take your money. This starter guide cuts through it: what actually matters in 2026, where to start, and roughly what to budget.</p>
+<p>Related: <a href="/blog/seo-vs-paid-ads-which-first-2026">SEO vs paid ads</a></p>
 
 <h2>Start with the foundations, not the tactics</h2>
 <p>Before ads or social media, get these right:</p>
@@ -708,6 +711,7 @@ export const BLOG_POSTS = [
     tags: ["Pricing","Digital Marketing","Pakistan"],
     content: `
 <p>If you run a business in Pakistan and you're considering digital marketing, the first question is almost always the same: <strong>how much does it actually cost?</strong> The honest answer is "it depends" — but that isn't helpful on its own. So in this guide we'll give you real, up-to-date price ranges for 2026, explain what drives the cost up or down, and show you how to budget so you get results without overpaying.</p>
+<p>Related: <a href="/blog/seo-digital-marketing-cost-uae-saudi">UAE and Saudi pricing guide</a></p>
 
 <h2>Two costs you must separate: management fee vs ad budget</h2>
 <p>The single biggest mistake business owners make is mixing up these two numbers:</p>

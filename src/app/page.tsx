@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import ClientReviews from "@/components/home/ClientReviews";
 import HeroAC from "@/components/home/HeroAC";
 import IndustriesMarquee from "@/components/home/IndustriesMarquee";
 import ProcessSection from "@/components/home/ProcessSection";
@@ -49,6 +50,7 @@ export default function HomePage() {
       </section>
 
       <PricingCalculator />
+      <ClientReviews />
       <LatestPosts />
       <FAQSection />
 

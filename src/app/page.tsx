@@ -17,7 +17,7 @@ import ContactForm from "@/components/contact/ContactForm";
 export const metadata: Metadata = {
   title: "SEO & Digital Marketing for UAE, Saudi & Pakistan | Ratech Global",
   description:
-    "results-driven digital marketing agency. Meta Ads, Google Ads, SEO, YouTube Automation, Shopify & AI. Serving businesses in Pakistan, UAE, UK & USA. Book free consultation.",
+    "SEO, AEO, GEO, Meta Ads, Google Ads and web development for businesses in the UAE, Saudi Arabia, Qatar and Pakistan. Book free consultation.",
   alternates: { canonical: "https://www.ratechglobal.com" },
 };
 

@@ -1,5 +1,59 @@
 export const BLOG_POSTS = [
     {
+    slug: "local-seo-checklist-restaurants-clinics-dubai",
+    title: "Local SEO Checklist for Restaurants and Clinics in Dubai",
+    excerpt: "A simple checklist for Dubai restaurants and clinics: Google Business Profile, reviews, website basics, Arabic and English pages, and tracking, with no jargon.",
+    category: "SEO",
+    author: "Ratech Global Team",
+    date: "Nov 12, 2026",
+    readTime: "6 min",
+    image: "/images/blog-local-seo-checklist-restaurants-clinics-dubai.png",
+    tags: ["Dubai","Local SEO","Restaurants","Clinics","Google Business Profile"],
+    content: `
+<p>When someone in Dubai wants a dentist, a family doctor or a place to eat tonight, they usually pick up their phone and search. The businesses that show up on the map and in the first results get the calls and the bookings. This checklist covers the basics a restaurant or clinic should have in place, in plain language.</p>
+
+<h2>1. Claim and complete your Google Business Profile</h2>
+<p>This is the single most important step for local search. Check that you have:</p>
+<ul>
+<li>The exact business name, address and phone number, spelled the same way everywhere</li>
+<li>The right main category (for example "Dental clinic" or "Italian restaurant") and a few extra categories if they apply</li>
+<li>Correct opening hours, including holidays</li>
+<li>Photos: the entrance, the inside, your team, and (for restaurants) your food</li>
+<li>A short, honest description of what you offer</li>
+<li>A working website link and a WhatsApp or call button</li>
+</ul>
+
+<h2>2. Ask for reviews, and reply to them</h2>
+<p>Reviews help customers decide, and Google also looks at them. Ask happy customers to leave an honest review, for example by sharing your review link after a visit. Reply to every review, good or bad, politely and briefly. Never buy reviews or write them yourself.</p>
+
+<h2>3. Make your website easy on a phone</h2>
+<ul>
+<li>It should open in a few seconds on mobile data</li>
+<li>Your phone number, address and booking or WhatsApp button should be visible without scrolling</li>
+<li>Restaurants: show the menu as text, not only as an image or PDF</li>
+<li>Clinics: list each service on its own page, such as teeth cleaning, check-ups or skin treatments</li>
+</ul>
+
+<h2>4. Write for both Arabic and English searchers</h2>
+<p>Many customers search in Arabic, and others in English. If you can, have key pages in both languages, written naturally and not copied through a machine translation. Link each version to the other so Google knows they belong together.</p>
+
+<h2>5. Add answers to common questions</h2>
+<p>Add a short FAQ to your main pages. A restaurant can answer questions about parking, opening times and booking. A clinic can answer questions about appointments, insurance and what to expect on the first visit. Clear answers help customers, and they can also be picked up by search and AI assistants.</p>
+
+<h2>6. Keep your details consistent everywhere</h2>
+<p>Your name, address and phone number should match on your website, Google, Instagram, Facebook and any directory. Small differences confuse both customers and search engines.</p>
+
+<h2>7. Track what is working</h2>
+<p>Look at your Google Business Profile insights each month (calls, direction requests, website clicks), and use a simple way to track enquiries from your website, such as Google Analytics and a form or WhatsApp click event. What you do not measure you cannot improve.</p>
+
+<h2>A realistic expectation</h2>
+<p>Local SEO usually shows steady improvement over a few months, not overnight, and nobody can honestly guarantee a position on Google. What you can control is the quality of your profile, your reviews and your website.</p>
+
+<h2>Need help getting started?</h2>
+<p>Ratech Global helps businesses in the UAE, Saudi Arabia, Qatar and Pakistan with SEO, AEO, GEO and paid ads. <a href="/consultation">Book a free consultation</a> and we will review your Google profile and website and tell you what to fix first. You can also read our guides on <a href="/blog/seo-digital-marketing-cost-uae-saudi">how much SEO and digital marketing cost</a> and <a href="/blog/local-seo-google-business-profile-uae-2026">local SEO for UAE businesses</a>.</p>
+`,
+  },
+    {
     slug: "seo-digital-marketing-cost-uae-saudi",
     title: "How Much Does SEO and Digital Marketing Cost in the UAE and Saudi Arabia?",
     excerpt: "What decides the price of SEO, ads and social media management in the UAE and Saudi Arabia, what is usually included, and how to compare quotes without overpaying.",

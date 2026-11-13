@@ -1,5 +1,49 @@
 export const BLOG_POSTS = [
     {
+    slug: "facebook-ads-mistakes-uae-ecommerce-brands",
+    title: "7 Facebook Ads Mistakes UAE E-commerce Brands Make",
+    excerpt: "Running Facebook and Instagram ads in the UAE? Here are 7 common mistakes that waste budget, from weak offers to slow checkout, and simple ways to fix them.",
+    category: "Meta Ads",
+    author: "Ratech Global Team",
+    date: "Nov 13, 2026",
+    readTime: "6 min",
+    image: "/images/blog-facebook-ads-mistakes-uae-ecommerce-brands.png",
+    tags: ["Meta Ads","UAE","E-commerce","Facebook Ads","Instagram Ads"],
+    content: `
+<p>Scroll through the Facebook and Instagram ads shown in the UAE and you will see the same pattern: many online shops, perfume brands and fashion stores running ads at the same time, often with similar offers. When everyone is shouting, the brands that win are usually not the ones spending the most, but the ones avoiding the common mistakes below.</p>
+
+<h2>1. Sending people to the wrong place</h2>
+<p>An ad that sends a customer to your home page, or to a long page where the product is hard to find, loses people in the first few seconds. Send them straight to the product or offer they saw in the ad. If you sell through WhatsApp, make sure the WhatsApp message is already filled in with the product name so the customer only has to press send.</p>
+
+<h2>2. A weak or unclear offer</h2>
+<p>"Best perfume in Dubai" does not give anyone a reason to act. A clear offer does: what the product is, the price, what is included, and how fast it arrives. Put the most important part in the first line of the ad and in the first seconds of the video.</p>
+
+<h2>3. Using one ad for everyone</h2>
+<p>Customers in Dubai, Sharjah and Abu Dhabi, and customers who read Arabic or English, or Malayalam, Hindi or Tagalog, do not respond to the same message. Test a few versions of your ad for the main groups of customers you serve instead of running one for all.</p>
+
+<h2>4. Ignoring the first three seconds of the video</h2>
+<p>Most people decide in a moment whether to keep watching. Show the product, the price or the result right away. Add subtitles, because many people watch with the sound off.</p>
+
+<h2>5. A slow or confusing website or checkout</h2>
+<p>If your website takes long to load on mobile data, or asks for too many details before ordering, customers leave even when the ad was good. Test your own checkout on a phone. Offer the payment methods UAE customers expect, such as cash on delivery, cards and Tabby or Tamara if you use them.</p>
+
+<h2>6. Not tracking what happens after the click</h2>
+<p>Likes and views are not sales. Install the Meta Pixel and track purchases, WhatsApp clicks and add-to-cart events. Without this, you cannot tell which ad brings customers and which one only spends money.</p>
+
+<h2>7. Changing everything too often, or never changing anything</h2>
+<p>Some brands switch their ads every day and never learn what works. Others run the same ad for months until people are tired of it. A simple routine works better: let each ad run long enough to give you data, keep what works, replace what does not, and add a new creative regularly.</p>
+
+<h2>Ads and search work better together</h2>
+<p>Ads bring customers while you pay for them. When people later search for your brand on Google, they should find a clear website and a complete Google profile. If you are deciding where to put your budget first, read <a href="/blog/seo-or-google-ads-uae-which-first">SEO or Google Ads: which should a UAE business start with</a> and <a href="/blog/seo-digital-marketing-cost-uae-saudi">how much SEO and digital marketing cost in the UAE and Saudi Arabia</a>.</p>
+
+<h2>A realistic expectation</h2>
+<p>Nobody can honestly guarantee sales or a fixed return from ads. Results depend on your product, price, offer, website and competition. What you can control is testing properly, tracking correctly and fixing the weak points one at a time.</p>
+
+<h2>Want a second opinion on your ads?</h2>
+<p>Ratech Global runs and reviews Meta Ads for businesses in the UAE, Saudi Arabia, Qatar and Pakistan. <a href="/consultation">Book a free consultation</a> and we will look at your ads and website and tell you what to fix first.</p>
+`,
+  },
+    {
     slug: "google-maps-seo-shops-pakistan-more-calls",
     title: "Google Maps SEO for Shops in Pakistan: 8 Steps to Get More Calls",
     excerpt: "A simple guide for shop owners in Pakistan: how to set up your Google Maps listing, get honest reviews and show up when people search nearby, with no jargon.",

@@ -1,5 +1,56 @@
 export const BLOG_POSTS = [
     {
+    slug: "google-maps-seo-shops-pakistan-more-calls",
+    title: "Google Maps SEO for Shops in Pakistan: 8 Steps to Get More Calls",
+    excerpt: "A simple guide for shop owners in Pakistan: how to set up your Google Maps listing, get honest reviews and show up when people search nearby, with no jargon.",
+    category: "SEO",
+    author: "Ratech Global Team",
+    date: "Nov 13, 2026",
+    readTime: "6 min",
+    image: "/images/blog-google-maps-seo-shops-pakistan-more-calls.png",
+    tags: ["Pakistan","Google Maps","Local SEO","Shops","Google Business Profile"],
+    content: `
+<p>Think about how you look for a shop yourself. You search "electronics near me" or "mobile repair in Faisalabad", look at the map, check the rating and call the first good option. Your customers do the same. If your shop is missing from that map or your listing is half empty, the customer calls your competitor instead. Here are 8 steps to fix that, written for shop owners in Pakistan.</p>
+
+<h2>1. Claim your Google Business Profile</h2>
+<p>Search for your shop name on Google Maps. If a listing exists, claim it. If not, create one at business.google.com. Google will ask you to verify that the business is yours, usually with a video or a code. Until you verify, you cannot control what customers see.</p>
+
+<h2>2. Choose the right main category</h2>
+<p>The main category tells Google what you are. "Electronics store" and "Mobile phone repair shop" bring different customers. Pick the one that matches what most of your customers come for, then add a few extra categories for your other products or services.</p>
+
+<h2>3. Fill in every detail</h2>
+<ul>
+<li>Shop name exactly as it is on your signboard, without extra keywords added</li>
+<li>Full address and a map pin placed on the exact spot</li>
+<li>Phone number that you actually answer, plus a WhatsApp number if you use one</li>
+<li>Opening hours, including Friday and any holiday changes</li>
+<li>A short description of what you sell and which brands you carry</li>
+<li>Your products or services added one by one</li>
+</ul>
+
+<h2>4. Add real photos</h2>
+<p>Add clear photos of the outside of the shop (so people can recognise it), the inside, your main products and your team. Photos taken on a phone in good light are enough. Add a few new ones every month.</p>
+
+<h2>5. Ask for honest reviews</h2>
+<p>Reviews are one of the strongest things customers look at. After a good sale, politely ask the customer to leave a review and send them your review link on WhatsApp. Never pay for reviews or write them yourself. Fake reviews can get your listing suspended.</p>
+
+<h2>6. Reply to every review</h2>
+<p>Thank people for good reviews. For a bad review, reply calmly, say you are sorry for the problem and offer to fix it. New customers read the replies and judge how you treat people.</p>
+
+<h2>7. Keep your details the same everywhere</h2>
+<p>Your shop name, address and phone number should match on Google, Facebook, Instagram, WhatsApp Business and any directory. If you have a website, put the same details in the footer and on the contact page. A simple website with your products and a "Call" or "WhatsApp" button helps customers trust you and gives Google more information about your shop.</p>
+
+<h2>8. Check your numbers every month</h2>
+<p>Google Business Profile shows how many people called you, asked for directions or clicked your website. Look at these once a month. If calls go up after you add photos or reviews, you know what works. If they stay flat, change one thing at a time.</p>
+
+<h2>What to expect</h2>
+<p>These steps cost very little and many shops see more calls within a few weeks, but results depend on your area and competition, and nobody can honestly promise the number one position on Google Maps. Consistency matters more than any trick: a complete profile, regular photos and real reviews.</p>
+
+<h2>Want help with your listing?</h2>
+<p>Ratech Global helps businesses in Pakistan, the UAE, Saudi Arabia and Qatar with SEO, AEO, GEO and paid ads. <a href="/consultation">Book a free consultation</a> and we will review your Google listing and tell you what to fix first. You can also read <a href="/blog/digital-marketing-cost-pakistan">how much digital marketing costs in Pakistan</a> and our <a href="/blog/local-seo-checklist-restaurants-clinics-dubai">local SEO checklist for Dubai</a>.</p>
+`,
+  },
+    {
     slug: "local-seo-checklist-restaurants-clinics-dubai",
     title: "Local SEO Checklist for Restaurants and Clinics in Dubai",
     excerpt: "A simple checklist for Dubai restaurants and clinics: Google Business Profile, reviews, website basics, Arabic and English pages, and tracking, with no jargon.",

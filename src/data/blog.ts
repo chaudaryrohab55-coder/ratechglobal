@@ -1,5 +1,52 @@
 export const BLOG_POSTS = [
     {
+    slug: "aeo-2026-guide-uae-pakistan-businesses",
+    title: "AEO in 2026: What UAE and Pakistan Businesses Should Do",
+    excerpt: "AI assistants and Google answer boxes now answer many questions before anyone clicks. Here is a practical AEO plan for UAE and Pakistan businesses in 2026.",
+    category: "AEO",
+    author: "Ratech Global Team",
+    date: "Nov 14, 2026",
+    readTime: "7 min",
+    image: "/images/blog-aeo-2026-guide-uae-pakistan-businesses.png",
+    tags: ["AEO","GEO","AI Search","UAE","Pakistan"],
+    content: `
+<p>More and more people ask a question and get a direct answer, from Google's AI summaries, ChatGPT, Gemini or other assistants, without opening ten websites. This is why Answer Engine Optimization (AEO) matters. The idea is simple: make your business easy for search engines and AI assistants to understand, trust and quote. Below is a practical plan for businesses in the UAE and Pakistan, without hype.</p>
+
+<h2>What AEO means in plain words</h2>
+<p>SEO helps your pages rank in the list of results. AEO helps your content be used as the answer. The two work together: a page that is clear, trustworthy and well organised tends to help with both. If you want the full comparison, read our guide on <a href="/blog/geo-vs-aeo-vs-seo-difference">GEO vs AEO vs SEO</a>.</p>
+
+<h2>1. Answer real questions in plain language</h2>
+<p>Think about what your customers actually ask: "How much does a dental implant cost in Dubai?", "Which agency does Meta Ads in Lahore?". Write a short, direct answer in the first two sentences of the page, then add detail below. Avoid long introductions before the answer.</p>
+
+<h2>2. Add a real FAQ to your main pages</h2>
+<p>A short FAQ with honest answers about price ranges, timelines, who the service is for and how you work is one of the easiest AEO steps. Write the answers as you would say them to a customer on the phone. Do not stuff keywords.</p>
+
+<h2>3. Make it clear who you are</h2>
+<p>AI systems and search engines prefer sources they can identify. Show your business name, address, phone number, team and real examples of your work. Keep the details the same on your website, Google Business Profile, LinkedIn and directories.</p>
+
+<h2>4. Complete your Google Business Profile</h2>
+<p>For local searches, your Google profile is often what customers and search tools see first. Fill in services, hours, photos and categories, collect honest reviews and reply to them. Our <a href="/blog/local-seo-checklist-restaurants-clinics-dubai">local SEO checklist for Dubai</a> and <a href="/blog/google-maps-seo-shops-pakistan-more-calls">Google Maps guide for Pakistan</a> walk through the steps.</p>
+
+<h2>5. Add structured data where it fits</h2>
+<p>Structured data (schema) tells search engines what a page is: an organisation, a service, a FAQ, an article. It does not guarantee that you will be quoted, but it removes guesswork. Make sure it matches what is visible on the page.</p>
+
+<h2>6. Write in the languages your customers use</h2>
+<p>In the UAE, many people search in Arabic as well as English. In Pakistan, many search in English, Urdu or Roman Urdu. Where it makes sense, publish key pages in the languages your customers really use, written naturally and not machine-translated word for word.</p>
+
+<h2>7. Keep content fresh and honest</h2>
+<p>Update your important pages when prices, services or details change, and show the date. Do not claim results you cannot prove. Clear, accurate pages are more likely to be trusted by both people and AI tools.</p>
+
+<h2>What about llms.txt?</h2>
+<p>Some websites add a small llms.txt file that summarises the business for AI tools. It is cheap and harmless to add, but no major AI provider has confirmed that it affects whether you are quoted, so treat it as a small extra and not a strategy.</p>
+
+<h2>How to measure it</h2>
+<p>Ask the questions your customers ask in a few AI assistants and see whether your business is mentioned. Write down the results once a month. Also watch your Google Search Console impressions and your enquiries. AI search results change often, and nobody can honestly guarantee that you will be mentioned.</p>
+
+<h2>Need help with AEO?</h2>
+<p>Ratech Global helps businesses in the UAE, Saudi Arabia, Qatar and Pakistan with SEO, AEO and GEO. See our <a href="/services/ai-search-optimization">AI search optimization service</a> or <a href="/consultation">book a free consultation</a> and we will review your site and tell you what to fix first.</p>
+`,
+  },
+    {
     slug: "website-not-generating-leads-7-fixes",
     title: "Why Your Website Is Not Generating Leads: 7 Fixes",
     excerpt: "Your website gets visitors but few enquiries? Here are 7 common reasons a website does not generate leads, and simple fixes you can start with this week.",

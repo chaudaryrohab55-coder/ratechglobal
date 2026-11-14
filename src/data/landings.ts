@@ -477,10 +477,9 @@ export const LANDINGS: Landing[] = [
     currency: "PKR",
     headline: "Digital Marketing Agency in Islamabad",
     subhead:
-      "Ratech Global helps Islamabad businesses — from corporate and tech to real estate, education, clinics and upscale retail — grow with professional, ROI-focused Meta Ads, Google Ads and SEO.",
-    metaTitle: "Digital Marketing Agency in Islamabad | Ratech Global",
+    "Ratech Global is a remote digital marketing agency helping Islamabad businesses, from real estate, education and clinics to restaurants and online stores, get found on Google and win more enquiries with SEO, Meta Ads, Google Ads and web development.",    metaTitle: "Digital Marketing Agency in Islamabad | Ratech Global",
     metaDescription:
-      "Grow your Islamabad business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
+          "Digital marketing for Islamabad businesses: SEO, Meta Ads, Google Ads and web development. Remote team, English and Urdu. Book a free consultation.",
     heroPoints: [
       "Professional, ROI-focused campaigns",
       "Serving Islamabad & the twin cities",
@@ -513,11 +512,13 @@ export const LANDINGS: Landing[] = [
       { name: "Branding & Graphic Design", desc: "A refined brand identity and creative that fit Islamabad's professional market." },
     ],
     faqs: [
-      { q: "Do you work with businesses in Islamabad?", a: "Yes. Ratech Global works with businesses across Islamabad — corporate, tech, real estate, education, clinics and retail — managed online with clear reporting and fast communication." },
-      { q: "Can you help a corporate or professional business?", a: "Yes. We build professional campaigns and polished websites suited to Islamabad's corporate, tech and service businesses." },
-      { q: "How much does digital marketing cost in Islamabad?", a: "It depends on your goals and scope. Packages start affordably and scale with your needs, plus your ad budget. Book a free consultation for an exact quote." },
-      { q: "How quickly will I see results?", a: "Paid ads usually show results within 2-4 weeks; SEO builds over 3-6 months. We give you a clear timeline upfront." },
-      { q: "Do you run campaigns in Urdu and English?", a: "Yes — both, to connect with Islamabad's full audience." },
+      { q: "Do you work with businesses in Islamabad?", a: "Yes. Ratech Global works remotely with Islamabad businesses, including real estate, education, clinics, restaurants, retail and online stores. We are based in Sahiwal, Punjab, and work with clients by WhatsApp, phone, email and video calls." },
+      { q: "Can you help a corporate or professional business?", a: "Yes. We build professional websites and campaigns for corporate, tech and service businesses, with clear reporting so you can see what your budget is doing." },
+      { q: "How much does digital marketing cost in Islamabad?", a: "It depends on your goals, your industry and your ad budget. After a free consultation we send a clear quote with no lock-in contracts. Ad spend is paid separately to Meta or Google." },
+      { q: "How quickly will I see results?", a: "Paid ads can bring first enquiries within a few weeks, while SEO usually takes 3 to 6 months to build. Results depend on your market and competition, and we do not promise fixed rankings or sales." },
+      { q: "Do you run campaigns in Urdu and English?", a: "Yes, both. We write ads and content in English and Urdu so they reach Islamabad's full audience." },
+      { q: "Do you have an office in Islamabad?", a: "Our team works remotely from Sahiwal, Punjab, which keeps costs lower for clients. We meet clients by video call, phone and WhatsApp." },
+      { q: "Which areas of Islamabad and Rawalpindi do you cover?", a: "We serve businesses across Islamabad and the twin cities online, including F-7, Blue Area, G-11, DHA and Bahria Town, because Meta and Google campaigns can be targeted by area." },
     ],
     priceNote: "Affordable local packages + ad budget",
   },

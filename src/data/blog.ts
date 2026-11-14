@@ -1,5 +1,46 @@
 export const BLOG_POSTS = [
     {
+    slug: "website-not-generating-leads-7-fixes",
+    title: "Why Your Website Is Not Generating Leads: 7 Fixes",
+    excerpt: "Your website gets visitors but few enquiries? Here are 7 common reasons a website does not generate leads, and simple fixes you can start with this week.",
+    category: "Web Development",
+    author: "Ratech Global Team",
+    date: "Nov 14, 2026",
+    readTime: "7 min",
+    image: "/images/blog-website-not-generating-leads-7-fixes.png",
+    tags: ["Lead Generation","Website","Conversion","SEO","Small Business"],
+    content: `
+<p>"I don't get many leads through my website." We hear this often. The site looks fine, it is online, maybe it even gets some visitors, but the phone does not ring and the contact form stays empty. The cause is usually not one big problem. It is a few small ones. Here are 7 of the most common, and how to fix each.</p>
+
+<h2>1. It is not clear what you do in the first five seconds</h2>
+<p>A visitor should understand three things right away: what you offer, who it is for, and what to do next. If your home page starts with a vague slogan, people leave. Replace it with a plain sentence, for example: "We build websites for restaurants in Lahore. Get a free quote."</p>
+
+<h2>2. There is no clear next step</h2>
+<p>If a visitor has to hunt for your phone number or contact form, most will not. Put one main button on every important page ("Book a free call", "Get a quote", "WhatsApp us") and repeat it after each section. Do not offer five different actions on the same page.</p>
+
+<h2>3. The contact form asks for too much</h2>
+<p>Every extra field loses some people. For a first enquiry, name, phone or email and a short message are enough. Add a WhatsApp button as well, because many customers in Pakistan and the Gulf prefer to message than to fill in a form.</p>
+
+<h2>4. The website is slow on a phone</h2>
+<p>Most visitors come from mobile data. Large uncompressed images are the most common cause of a slow site. Compress your images, remove plugins you do not use, and test your pages with Google PageSpeed Insights. If a page takes more than a few seconds to show, visitors leave before they read anything.</p>
+
+<h2>5. Nothing builds trust</h2>
+<p>Strangers will not send an enquiry to a business they cannot verify. Add real things: your address, a phone number that works, real client reviews, examples of your work, and the names or photos of your team. Do not use invented testimonials or numbers you cannot prove.</p>
+
+<h2>6. The wrong people are visiting</h2>
+<p>Traffic is not the same as leads. A website can get visitors for searches that will never buy from you. Check in Google Search Console which searches bring people to your site. If they are not close to what you sell, your pages need clearer service content that matches what your customers actually search for.</p>
+
+<h2>7. You are not tracking enquiries</h2>
+<p>If you do not know how many people fill in the form or click your phone number or WhatsApp button, you cannot tell what works. Set up Google Analytics and track form submissions and WhatsApp or call clicks as events. Review them once a month.</p>
+
+<h2>Where to start</h2>
+<p>Do not try to fix all seven at once. A simple order: first make the offer and the main button clear (1 and 2), then speed (4), then trust (5), then tracking (7). You will usually see a difference in the quality of enquiries within weeks, but results depend on your market and competition, and nobody can honestly promise a fixed number of leads.</p>
+
+<h2>Want a second opinion on your website?</h2>
+<p>Ratech Global builds and improves websites and SEO for businesses in Pakistan, the UAE, Saudi Arabia and Qatar. <a href="/consultation">Book a free consultation</a> and we will review your website and tell you the first three things to fix. You may also like <a href="/blog/google-maps-seo-shops-pakistan-more-calls">Google Maps SEO for shops in Pakistan</a> and <a href="/blog/digital-marketing-cost-pakistan">how much digital marketing costs in Pakistan</a>.</p>
+`,
+  },
+    {
     slug: "facebook-ads-mistakes-uae-ecommerce-brands",
     title: "7 Facebook Ads Mistakes UAE E-commerce Brands Make",
     excerpt: "Running Facebook and Instagram ads in the UAE? Here are 7 common mistakes that waste budget, from weak offers to slow checkout, and simple ways to fix them.",

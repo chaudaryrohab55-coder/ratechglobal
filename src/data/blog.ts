@@ -1,5 +1,67 @@
 export const BLOG_POSTS = [
     {
+    slug: "click-to-whatsapp-ads-guide-uae-pakistan",
+    title: "Click-to-WhatsApp Ads: A Simple Guide for UAE and Pakistan Businesses",
+    excerpt: "Many shops in the UAE and Pakistan sell through WhatsApp. Here is how Click-to-WhatsApp ads work, how to set them up well and the mistakes to avoid.",
+    category: "Meta Ads",
+    author: "Ratech Global Team",
+    date: "Nov 15, 2026",
+    readTime: "7 min",
+    image: "/images/blog-click-to-whatsapp-ads-guide-uae-pakistan.png",
+    tags: ["Meta Ads","WhatsApp","UAE","Pakistan","E-commerce"],
+    content: `
+<p>In the UAE and Pakistan, a lot of customers prefer to message a shop on WhatsApp before they buy. They ask about the price, the delivery and whether the product is available. Click-to-WhatsApp ads are built for exactly this: someone sees your ad on Facebook or Instagram, taps the button and a WhatsApp chat with your business opens. Here is a simple guide to using them well.</p>
+
+<h2>How a Click-to-WhatsApp ad works</h2>
+<p>You create a normal Meta ad, but instead of sending people to a website, the button opens a WhatsApp conversation. The customer does not need to fill in a form or wait for a page to load. This is why many small shops and online brands use them, and why you will see them in the Meta Ad Library for perfume, beauty and fashion brands.</p>
+
+<h2>What you need before you start</h2>
+<ul>
+<li>A Facebook Page for your business</li>
+<li>A WhatsApp Business number connected to that Page</li>
+<li>One product or offer you want to sell first</li>
+<li>Someone who can reply quickly, ideally within a few minutes</li>
+</ul>
+
+<h2>1. Make the offer clear in the ad</h2>
+<p>People should know what they will get before they tap. Show the product, the price or the bundle, and any delivery or cash-on-delivery terms you really offer. An ad that only says "Discover our new collection" gives no reason to start a chat. An ad that says what the product is, what it costs and how it arrives does.</p>
+
+<h2>2. Tell people exactly what to do</h2>
+<p>Use a direct call to action in the ad text, for example: "Message us on WhatsApp to order." Keep the ad about one product or one bundle, not your whole shop.</p>
+
+<h2>3. Set up the first message</h2>
+<p>Meta lets you prepare what the customer sends first, and a short greeting and quick replies on your side. A good first message names the product, so you know what the customer saw, for example: "Hi, I want to order the Self Care Bundle." A quick greeting from you, with two or three choices such as price, delivery and payment, saves time and keeps people in the chat.</p>
+
+<h2>4. Reply fast</h2>
+<p>A customer who messages you is interested right now. A reply after several hours often means the sale is lost. If you cannot answer all day, set opening hours in WhatsApp Business and an away message that says when you will reply.</p>
+
+<h2>5. Prepare short answers to common questions</h2>
+<p>Write down the answers to the questions you get every day: price, sizes or ingredients, delivery time, payment methods, return policy. Save them as quick replies in WhatsApp Business. This keeps your answers consistent and fast, even when you are busy.</p>
+
+<h2>6. Track where orders come from</h2>
+<p>Because the conversation happens in WhatsApp, it is easy to lose track of which ad brought the customer. Keep a simple sheet: date, customer name, product, ad name, order or no order. After a week you will know which ad brings real orders and not only chats.</p>
+
+<h2>7. Target the right people</h2>
+<p>Choose the cities you deliver to, the age range and the language of your customers. An ad that reaches people you cannot deliver to wastes your budget. Check the audience breakdown in Ads Manager after a few days and narrow it down to the people who actually respond.</p>
+
+<h2>Mistakes to avoid</h2>
+<ul>
+<li>Running one general ad for all your products</li>
+<li>No price or offer in the ad</li>
+<li>Slow replies, or no reply outside working hours</li>
+<li>Judging the ad after one day, before it has enough data</li>
+<li>Promising things you cannot deliver, which leads to complaints and bad reviews</li>
+</ul>
+<p>For more on common ad problems, read <a href="/blog/facebook-ads-mistakes-uae-ecommerce-brands">7 Facebook ads mistakes UAE e-commerce brands make</a>.</p>
+
+<h2>A realistic expectation</h2>
+<p>Click-to-WhatsApp ads can bring more conversations, but nobody can honestly guarantee sales. Results depend on your product, price, competition and how well you handle the chat. Start with a small budget, test one offer and improve step by step.</p>
+
+<h2>Want help setting up your ads?</h2>
+<p>Ratech Global runs and reviews Meta Ads for businesses in the UAE, Saudi Arabia, Qatar and Pakistan. <a href="/consultation">Book a free consultation</a> and we will look at your ad and your WhatsApp process and tell you what to fix first. If your website brings few enquiries too, see <a href="/blog/website-not-generating-leads-7-fixes">why a website does not generate leads</a>.</p>
+`,
+  },
+    {
     slug: "aeo-2026-guide-uae-pakistan-businesses",
     title: "AEO in 2026: What UAE and Pakistan Businesses Should Do",
     excerpt: "AI assistants and Google answer boxes now answer many questions before anyone clicks. Here is a practical AEO plan for UAE and Pakistan businesses in 2026.",

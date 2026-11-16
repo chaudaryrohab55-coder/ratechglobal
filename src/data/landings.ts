@@ -229,11 +229,9 @@ export const LANDINGS: Landing[] = [
     currency: "PKR",
     headline: "Digital Marketing Agency in Lahore",
     subhead:
-      "Ratech Global helps Lahore businesses cut through a crowded market — from retail and real estate to restaurants, fashion, education and startups — with Meta Ads, Google Ads and SEO engineered for real ROI, not vanity metrics.",
-    metaTitle: "Digital Marketing Agency in Lahore | Ratech Global",
+    "Ratech Global is a remote digital marketing agency helping Lahore businesses, from retail, real estate and restaurants to fashion, education and online stores, get found on Google and win more enquiries with SEO, Meta Ads, Google Ads and web development.",    metaTitle: "Digital Marketing Agency in Lahore | Ratech Global",
     metaDescription:
-      "Grow your Lahore business with Ratech Global — SEO, Meta & Google Ads, social media and web development. ROI-focused, English & Urdu. Free consultation: +92 316 8612919.",
-    heroPoints: [
+    "Digital marketing for Lahore businesses: SEO, Meta Ads, Google Ads and web development. Remote team, English and Urdu. Book a free consultation.",    heroPoints: [
       "Built for Lahore's competitive market",
       "ROI-focused Meta & Google Ads",
       "Free strategy consultation",
@@ -265,11 +263,13 @@ export const LANDINGS: Landing[] = [
       { name: "Branding & Graphic Design", desc: "Standout identity and ad creative that make your Lahore business impossible to ignore." },
     ],
     faqs: [
-      { q: "Do you work with businesses in Lahore?", a: "Yes. Ratech Global works with businesses across Lahore — retail, real estate, restaurants, fashion, education, startups and online stores — with fast communication and clear reporting." },
-      { q: "Lahore is competitive — can you help me stand out?", a: "That's exactly our focus. We combine sharp positioning, strong creative and precise targeting so you win attention and customers in a crowded Lahore market." },
-      { q: "How much does digital marketing cost in Lahore?", a: "It depends on your goals and scope. Packages start affordably and scale up for competitive campaigns, plus your ad budget. Book a free consultation for an exact quote." },
-      { q: "How quickly will I see results?", a: "Paid ads usually show results within 2-4 weeks; SEO builds over 3-6 months for lasting organic traffic. You get a clear timeline before we start." },
-      { q: "Do you run campaigns in Urdu and English?", a: "Yes. We create and run campaigns in both languages to connect with Lahore's diverse audience." },
+      { q: "Do you work with businesses in Lahore?", a: "Yes. Ratech Global works remotely with Lahore businesses, including retail, fashion, real estate, restaurants, education and online stores. We are based in Sahiwal, Punjab, and work with clients by WhatsApp, phone, email and video calls." },
+      { q: "Can you help a retail, fashion or restaurant business?", a: "Yes. We run Meta Ads and Google Ads, build websites and online stores, and improve Google Maps listings so local customers can find you and contact you." },
+      { q: "How much does digital marketing cost in Lahore?", a: "It depends on your goals, your industry and your ad budget. After a free consultation we send a clear quote with no lock-in contracts. Ad spend is paid separately to Meta or Google." },
+      { q: "How quickly will I see results?", a: "Paid ads can bring first enquiries within a few weeks, while SEO usually takes 3 to 6 months to build. Results depend on your market and competition, and we do not promise fixed rankings or sales." },
+      { q: "Do you run campaigns in Urdu and English?", a: "Yes, both. We write ads and content in English and Urdu so they reach Lahore's full audience." },
+      { q: "Do you have an office in Lahore?", a: "Our team works remotely from Sahiwal, Punjab, which keeps costs lower for clients. We meet clients by video call, phone and WhatsApp." },
+      { q: "Which areas of Lahore do you cover?", a: "We serve businesses across Lahore online, including Gulberg, DHA, Johar Town, Model Town and Bahria Town, because Meta and Google campaigns can be targeted by area." },
     ],
     priceNote: "Affordable local packages + ad budget",
   },

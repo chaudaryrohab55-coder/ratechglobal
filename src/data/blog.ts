@@ -1,4 +1,56 @@
-export const BLOG_POSTS = [
+export const BLOG_POSTS = [{
+    slug: "how-to-choose-digital-marketing-agency-pakistan",
+    title: "How to Choose a Digital Marketing Agency in Pakistan: 8 Questions to Ask",
+    excerpt: "Hiring a digital marketing agency in Pakistan? Ask these 8 questions about results, reporting, contracts and pricing before you pay anything.",
+    category: "Digital Marketing",
+    author: "Ratech Global Team",
+    date: "Nov 16, 2026",
+    readTime: "7 min",
+    image: "/images/blog-how-to-choose-digital-marketing-agency-pakistan.png",
+    tags: ["Pakistan","Digital Marketing Agency","Hiring","SEO","Meta Ads"],
+    content: `
+<p>There are hundreds of digital marketing agencies in Pakistan, from one-person freelancers to large teams, and many of them sound the same. Choosing the wrong one costs you money and months. These 8 questions help you tell a serious agency from one that only sounds good in a sales call.</p>
+
+<h2>1. What exactly will you do for me, every month?</h2>
+<p>A good agency can list the work in plain words: for example "4 blog posts, fixing 10 technical issues, one new ad set, a monthly report". If the answer is vague, such as "we will boost your online presence", you will not know what you are paying for.</p>
+
+<h2>2. Can you show real work and real clients?</h2>
+<p>Ask for examples of work they did, such as websites, ad accounts or content, and for the names of clients you can contact. Be careful with screenshots that show only big numbers without context. A good agency can explain what it did to get the result.</p>
+
+<h2>3. Do you promise rankings or sales?</h2>
+<p>Be careful with anyone who promises "number one on Google in 30 days" or a fixed number of sales. Nobody controls Google or Meta. An honest agency talks about what it will do and what you can reasonably expect, and says that results depend on your market, budget and competition.</p>
+
+<h2>4. How will I see the results?</h2>
+<p>Ask what the monthly report contains and who will explain it. You should see simple numbers connected to your goals: enquiries, calls, orders, cost per lead, search impressions and clicks. Reports full of likes and followers alone do not show whether your business is growing.</p>
+
+<h2>5. Who owns the accounts?</h2>
+<p>Your website, domain, Google Business Profile, Google Analytics and ad accounts should be in your name, with the agency added as a user. If the agency owns them, you may lose everything when you stop working together.</p>
+
+<h2>6. What is the contract and how can I leave?</h2>
+<p>Ask about the minimum period, the notice period and what happens to your accounts and files if you leave. Be careful with long lock-in contracts and unclear cancellation terms. A confident agency does not need to trap you.</p>
+
+<h2>7. What does it cost, and what is included?</h2>
+<p>Ask for a written quote that separates the agency fee from the ad budget, because ad spend is paid to Meta or Google, not to the agency. Ask what is not included, such as design, content or tools. Prices vary a lot, so compare the work included, not only the number. Our guide on <a href="/blog/digital-marketing-cost-pakistan">how much digital marketing costs in Pakistan</a> gives typical ranges.</p>
+
+<h2>8. Who will I actually talk to?</h2>
+<p>Find out who will manage your account day to day, how fast they reply and how you can reach them (WhatsApp, calls, meetings). It is common for the person who sells the service to be different from the person who does the work, so ask to meet or speak with the person who will.</p>
+
+<h2>Warning signs</h2>
+<ul>
+<li>Guaranteed rankings, followers or sales</li>
+<li>No written proposal or contract</li>
+<li>No access to your own accounts and reports</li>
+<li>Prices far below everyone else, with no explanation</li>
+<li>Pressure to sign today</li>
+</ul>
+
+<h2>Start small if you are unsure</h2>
+<p>If you are not sure, begin with a small paid project or a short trial, such as a website review, a month of ads or a few pieces of content. See how the agency works, communicates and reports before you commit to a long plan. If you are deciding where to start, read <a href="/blog/seo-vs-paid-ads-which-first-2026">SEO or paid ads: which first</a>.</p>
+
+<h2>Talk to us</h2>
+<p>Ratech Global works with businesses in Pakistan, the UAE, Saudi Arabia and Qatar on SEO, AEO, GEO, Meta Ads, Google Ads and websites, with no lock-in contracts. <a href="/consultation">Book a free consultation</a> and ask us these same 8 questions. We are happy to answer them.</p>
+`,
+  },
     {
     slug: "click-to-whatsapp-ads-guide-uae-pakistan",
     title: "Click-to-WhatsApp Ads: A Simple Guide for UAE and Pakistan Businesses",

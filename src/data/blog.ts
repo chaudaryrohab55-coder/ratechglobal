@@ -1,4 +1,49 @@
-export const BLOG_POSTS = [{
+export const BLOG_POSTS = [
+    {
+    slug: "salon-marketing-pakistan-more-bookings",
+    title: "Salon Marketing in Pakistan: 8 Ways to Get More Bookings",
+    excerpt: "A simple marketing guide for beauty salons and parlours in Pakistan: Google Maps, Instagram, WhatsApp bookings, reviews and offers that bring in new customers.",
+    category: "Digital Marketing",
+    author: "Ratech Global Team",
+    date: "Nov 17, 2026",
+    readTime: "7 min",
+    image: "/images/blog-salon-marketing-pakistan-more-bookings.png",
+    tags: ["Salon","Beauty","Pakistan","Google Maps","Instagram"],
+    content: `
+<p>Before a customer books a salon, she usually does three things: she searches on Google, checks your photos and reviews on Instagram or Google Maps, and then sends a WhatsApp message. If any of those steps looks weak, she picks another salon. These 8 steps help you win more bookings from the customers who are already looking for you.</p>
+
+<h2>1. Complete your Google Maps listing</h2>
+<p>Searches like "salon near me" or "bridal makeup in Lahore" show a map with three businesses first. To appear there, claim your Google Business Profile and fill in everything: exact name, address and pin, phone or WhatsApp number, opening hours, categories (for example "Beauty salon" and "Bridal makeup artist"), services and photos. Our guide on <a href="/blog/google-maps-seo-shops-pakistan-more-calls">Google Maps SEO for shops in Pakistan</a> explains each step.</p>
+
+<h2>2. Show your real work</h2>
+<p>Salons are judged by photos. Post clear before-and-after pictures, bridal looks, hair colour results and your clean, bright interior. Use your own photos, taken in good light, and ask customers for permission before showing their faces.</p>
+
+<h2>3. List your services with prices or price ranges</h2>
+<p>Customers often message only to ask "price?". Put your main services on Google, Instagram highlights and a simple menu image. Even a price range such as "Hair cut from PKR ..." saves time and brings more serious customers.</p>
+
+<h2>4. Make booking one tap away</h2>
+<p>Add a WhatsApp button on Instagram, Facebook and Google. Prepare a short reply for common questions: prices, timings, location, parking and how to book. A quick answer matters, because many customers message several salons at once.</p>
+
+<h2>5. Ask for reviews, and reply to them</h2>
+<p>After a good service, politely ask the customer to leave a Google review and send her the review link on WhatsApp. Reply to every review, including the bad ones, calmly and politely. Never buy or write fake reviews, because they can get your listing suspended.</p>
+
+<h2>6. Post on Instagram with a plan</h2>
+<p>Three or four posts a week is better than ten posts in one day and then nothing. Mix before-and-after pictures, short reels of a hairstyle or makeup look, a team introduction, tips and customer offers. Use location tags and a few relevant hashtags, such as your city and area.</p>
+
+<h2>7. Make small, clear offers</h2>
+<p>A simple offer works better than a vague one: "Bridal package booking open for December", or "Free hair treatment add-on on your first visit". Write what is included, the dates and how to book. Do not offer discounts you cannot afford to keep giving.</p>
+
+<h2>8. Run a small local ad</h2>
+<p>If you want faster results, a small Instagram or Facebook ad targeted at women in your city and nearby areas can bring bookings. Send them to WhatsApp, and use one clear offer per ad. Read our guide on <a href="/blog/click-to-whatsapp-ads-guide-uae-pakistan">Click-to-WhatsApp ads</a> before you start.</p>
+
+<h2>What to expect</h2>
+<p>A complete Google listing, regular posts and real reviews usually show results over a few weeks to a few months. Nobody can honestly promise a fixed number of bookings, because it depends on your area, your competition and the quality of your service. What you can control is how complete and trustworthy you look online.</p>
+
+<h2>Want help with your salon marketing?</h2>
+<p>Ratech Global helps businesses in Pakistan with Google Maps, SEO, Instagram and Facebook content, ads and websites. <a href="/consultation">Book a free consultation</a> and we will review your Google listing and Instagram and tell you the first three things to fix.</p>
+`,
+  },
+    {
     slug: "how-to-choose-digital-marketing-agency-pakistan",
     title: "How to Choose a Digital Marketing Agency in Pakistan: 8 Questions to Ask",
     excerpt: "Hiring a digital marketing agency in Pakistan? Ask these 8 questions about results, reporting, contracts and pricing before you pay anything.",

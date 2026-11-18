@@ -1,5 +1,58 @@
 export const BLOG_POSTS = [
     {
+    slug: "shopify-seo-guide-pakistan-gulf-stores",
+    title: "Shopify SEO Guide for Pakistan and Gulf Stores: 8 Steps to Rank on Google",
+    excerpt: "Own a Shopify store in Pakistan, the UAE or Saudi Arabia? Here are 8 practical SEO steps to get found on Google: product pages, speed, collections, reviews and more.",
+    category: "SEO",
+    author: "Ratech Global Team",
+    date: "Nov 18, 2026",
+    readTime: "8 min",
+    image: "/images/blog-shopify-seo-guide-pakistan-gulf-stores.png",
+    tags: ["Shopify","SEO","E-commerce","Pakistan","UAE"],
+    content: `
+<p>A Shopify store can look great and still get almost no visitors from Google. Many store owners rely only on ads and social media, and then stop selling when they stop paying. Shopify SEO helps customers find your products when they search, without paying for every click. Here are 8 practical steps for stores in Pakistan, the UAE, Saudi Arabia and Qatar.</p>
+
+<h2>1. Write your own product titles and descriptions</h2>
+<p>Many stores copy the supplier's text. The same description on many websites gives Google no reason to prefer yours. Write a clear title that includes the product type and the main detail people search for (for example "Men's cotton kurta, white, size M to XL"), and a short original description with materials, sizes, use and delivery.</p>
+
+<h2>2. Organise your collections</h2>
+<p>Collection pages (like "Women's lawn suits" or "Oud perfumes") often rank better than single products, because they match broader searches. Create clear collections, give each a short introduction of two or three sentences, and use simple, readable names. Avoid creating a collection for every tiny variation.</p>
+
+<h2>3. Make your store fast on mobile</h2>
+<p>Most shoppers use phones, often on mobile data. Compress your product images before uploading, keep the number of installed apps low, and remove apps you no longer use, because each one can add code and slow the store. Test your main pages with Google PageSpeed Insights and fix the biggest items first.</p>
+
+<h2>4. Use clean URLs and a simple structure</h2>
+<p>Keep the structure easy: home page, collections, products. Use short, readable URLs, and do not change a page's URL without setting up a redirect, or you will lose the traffic that page had. Shopify handles redirects in the admin, so use them when you rename or delete products.</p>
+
+<h2>5. Add real reviews and clear product details</h2>
+<p>Reviews help customers decide and can also appear in search results when set up with the right markup. Ask buyers for honest reviews after delivery, and do not write fake ones. Show price, availability, delivery time, return policy and payment options clearly on the product page.</p>
+
+<h2>6. Add alt text to your images</h2>
+<p>Write a short description of what each image shows, for example "white cotton kurta front view", not a list of keywords. Alt text helps people who use screen readers and helps Google understand your images, which can also bring visitors from image search.</p>
+
+<h2>7. Get your store into Google Merchant Center</h2>
+<p>Google Merchant Center lets your products appear in Google Shopping and other product listings in countries where this is available. Connect your Shopify store and make sure your product data (title, price, availability, images) is accurate. Check Google's rules for your country before you rely on it.</p>
+
+<h2>8. Publish content that answers buyer questions</h2>
+<p>Blog posts and buying guides bring customers who are still choosing, for example "how to choose an oud perfume" or "how to take your size measurements". Write helpful, honest posts, link them to the matching collection or product, and update them when things change. For how AI search tools fit in, see our guide on <a href="/blog/geo-vs-aeo-vs-seo-difference">GEO vs AEO vs SEO</a>.</p>
+
+<h2>Mistakes to avoid</h2>
+<ul>
+<li>Copying manufacturer or supplier descriptions word for word</li>
+<li>Keeping many unused apps that slow the store</li>
+<li>Deleting product pages without redirects</li>
+<li>Hiding delivery, price or return details until checkout</li>
+<li>Buying fake reviews or links</li>
+</ul>
+
+<h2>A realistic expectation</h2>
+<p>SEO for a Shopify store usually takes a few months to show a clear change, and nobody can honestly guarantee a position on Google. Competition, your product range and your website's age all matter. What you can control is the quality of your product pages, your site speed and your content.</p>
+
+<h2>Want help with your Shopify store?</h2>
+<p>Ratech Global builds and improves Shopify stores and SEO for businesses in Pakistan, the UAE, Saudi Arabia and Qatar. <a href="/consultation">Book a free consultation</a> and we will review your store and tell you the first three things to fix. If your store gets visitors but few orders, also read <a href="/blog/website-not-generating-leads-7-fixes">why a website does not generate leads</a>.</p>
+`,
+  },
+    {
     slug: "boost-roas-meta-ads-2026-best-practices",
     title: "How to Boost ROAS on Meta Ads in 2026: 8 Best Practices",
     excerpt: "Want a better return on your Facebook and Instagram ads? Here are 8 practical ROAS best practices for 2026, from knowing your break-even point to tracking and testing.",

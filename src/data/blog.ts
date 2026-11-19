@@ -1,5 +1,58 @@
 export const BLOG_POSTS = [
     {
+    slug: "lead-generation-strategy-not-working-8-reasons",
+    title: "Why Your Lead Generation Strategy Isn't Working: 8 Common Reasons",
+    excerpt: "Spending on ads, SEO or outreach but getting few good leads? Here are 8 common reasons a lead generation strategy fails, and how to fix each one.",
+    category: "Lead Generation",
+    author: "Ratech Global Team",
+    date: "Nov 19, 2026",
+    readTime: "8 min",
+    image: "/images/blog-lead-generation-strategy-not-working-8-reasons.png",
+    tags: ["Lead Generation","Marketing Strategy","Sales","Small Business","SEO"],
+    content: `
+<p>You are posting, running ads or sending messages, and yet the enquiries are few or low quality. When a lead generation strategy is not working, the cause is rarely bad luck. It is usually one of a few fixable problems. Here are 8 of the most common, with a simple fix for each.</p>
+
+<h2>1. You have not defined who your ideal customer is</h2>
+<p>"Everyone who needs our service" is not a target. A clear target says who they are, where they are, what problem they have and what they can pay. A salon, a dental clinic and an online shop each need a different message. Write down your best three existing customers and look for what they have in common: that is your starting point.</p>
+
+<h2>2. You are trying too many channels at once</h2>
+<p>Instagram, Facebook ads, Google, LinkedIn, WhatsApp, cold emails: a small team that does all of them usually does none of them well. Pick one or two channels where your customers really are, run them consistently for a few weeks, and measure before you add another.</p>
+
+<h2>3. Your offer is not clear or strong</h2>
+<p>People do not respond to "we provide quality services". They respond to a specific offer: what you do, for whom, what they get and what the next step is. A free, short, useful review of their Google listing or website is an example of an easy first step that costs the customer nothing.</p>
+
+<h2>4. You follow up too slowly, or not at all</h2>
+<p>A person who contacts you is interested right now. If you reply after a day, they may already be talking to someone else. Many sales are also lost because nobody follows up a second or third time. Reply within minutes during working hours, and follow up after a few days with a short, polite message.</p>
+
+<h2>5. You are not tracking where leads come from</h2>
+<p>If you do not know which channel, ad or post brought each lead, you cannot tell what to do more of. Keep a simple sheet with date, name, source, status and result. For websites, track form submissions and WhatsApp or call clicks in Google Analytics. Review the numbers once a month.</p>
+
+<h2>6. You count quantity instead of quality</h2>
+<p>A hundred people who click and never buy are worth less than five serious enquiries. Check how many leads become real conversations and how many become customers. If many leads are not a good fit, tighten your message and your targeting so the wrong people do not reply.</p>
+
+<h2>7. Your website or landing page loses the visitors you get</h2>
+<p>Sometimes the strategy works and the page after the click does not: slow loading, unclear offer, a long form or no clear button. Our guide on <a href="/blog/website-not-generating-leads-7-fixes">why a website does not generate leads</a> gives a checklist.</p>
+
+<h2>8. You expect results too fast</h2>
+<p>Ads can bring first enquiries within days or weeks, but SEO, content and trust-building take months. Judging a plan after one week usually leads to changing it before it has had a chance. Decide in advance how long you will test each channel and what number you need to see.</p>
+
+<h2>A simple way to restart</h2>
+<ol>
+<li>Choose one customer type and one clear offer</li>
+<li>Pick one channel and run it for 3 to 4 weeks</li>
+<li>Reply to every lead fast, and follow up</li>
+<li>Track source and result for each lead</li>
+<li>Keep what works, change one thing at a time</li>
+</ol>
+
+<h2>A realistic expectation</h2>
+<p>Nobody can honestly guarantee a number of leads. Results depend on your market, price, competition and how well you handle each enquiry. What you can control is clarity, speed, tracking and patience.</p>
+
+<h2>Want a second opinion on your strategy?</h2>
+<p>Ratech Global helps businesses in Pakistan, the UAE, Saudi Arabia and Qatar with SEO, AEO, GEO, Meta Ads, Google Ads and websites. <a href="/consultation">Book a free consultation</a> and we will look at your current approach and tell you the first three things to fix. You may also like <a href="/blog/how-to-choose-digital-marketing-agency-pakistan">how to choose a digital marketing agency in Pakistan</a>.</p>
+`,
+  },
+    {
     slug: "shopify-seo-guide-pakistan-gulf-stores",
     title: "Shopify SEO Guide for Pakistan and Gulf Stores: 8 Steps to Rank on Google",
     excerpt: "Own a Shopify store in Pakistan, the UAE or Saudi Arabia? Here are 8 practical SEO steps to get found on Google: product pages, speed, collections, reviews and more.",

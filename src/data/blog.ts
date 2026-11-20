@@ -1,5 +1,66 @@
 export const BLOG_POSTS = [
     {
+    slug: "bespoke-web-development-process-pakistan",
+    title: "Bespoke Web Development Process in Pakistan: 8 Steps",
+    excerpt: "Thinking of a custom website? Here is how a bespoke web development process works in Pakistan, step by step, from discovery to launch and support.",
+    category: "Web Development",
+    author: "Ratech Global Team",
+    date: "Nov 20, 2026",
+    readTime: "8 min",
+    image: "/images/blog-bespoke-web-development-process-pakistan.png",
+    tags: ["Web Development","Custom Website","Next.js","Pakistan","Website Design"],
+    content: `
+<p>A bespoke (custom) website is built around your business, your customers and your goals, instead of starting from a ready-made template and filling in text. If you are planning one in Pakistan, it helps to know what the process looks like so you can ask the right questions and avoid surprises. Here are the 8 steps most professional projects follow.</p>
+
+<h2>Bespoke website vs template website</h2>
+<p>A template website is faster and cheaper to start, and it can be a good choice for a small business testing an idea. A bespoke website is designed and built for your specific needs: your own layout, your own features, better speed control and room to grow. It usually costs more and takes longer. The right choice depends on your budget, your goals and how important the website is to your sales.</p>
+
+<h2>Step 1: Discovery and goals</h2>
+<p>Every good project starts with questions. What does your business sell? Who are your customers? What should the website do: collect enquiries, sell products, book appointments, or build trust? Which countries or cities do you target? Which competitors do you admire? The answers decide everything that follows. Expect a call or a short questionnaire at this stage.</p>
+
+<h2>Step 2: Planning, sitemap and scope</h2>
+<p>Next, the team lists the pages and features you need: home, services, about, contact, blog, payment, forms, multiple languages and so on. A sitemap shows how the pages connect. A written scope states what is included, what is not, and what changes will cost extra. This is also where timeline and price are agreed, so ask for them in writing.</p>
+
+<h2>Step 3: Design (wireframes and mockups)</h2>
+<p>Wireframes are simple layouts that show where things go. Mockups add your colours, fonts, images and logo so you can see what the site will look like on desktop and mobile. Most visitors in Pakistan and the Gulf use phones, so the mobile design deserves as much attention as desktop. You review the design and request changes before any code is written, which saves time and money.</p>
+
+<h2>Step 4: Development</h2>
+<p>Developers turn the approved design into a working website. Modern bespoke sites are often built with frameworks like Next.js or React for speed, or with WordPress or Shopify where they fit the project. Good development means clean code, fast loading pages, secure forms and a layout that works on every screen size. Ask which technology will be used and why.</p>
+
+<h2>Step 5: Content and SEO setup</h2>
+<p>A website with weak content does not convert. Clear headlines, honest service descriptions, real photos and simple calls to action matter more than fancy effects. This is also the right time for SEO basics: page titles, meta descriptions, headings, image names, a sitemap, schema markup and a fast, mobile-friendly structure. Building SEO in from the start is far cheaper than fixing it later. Read our guide on <a href="/blog/website-not-generating-leads-7-fixes">why a website may not generate leads</a>.</p>
+
+<h2>Step 6: Testing</h2>
+<p>Before launch, the site should be tested on different phones, browsers and screen sizes. Check that forms send emails, links work, pages load quickly, and nothing is broken. Test the contact form yourself and confirm that enquiries reach the right inbox.</p>
+
+<h2>Step 7: Launch</h2>
+<p>Launch includes connecting your domain, setting up hosting and SSL (the padlock), submitting the sitemap to Google Search Console and adding analytics such as Google Analytics 4. If you are replacing an old website, redirects from old URLs to new ones are important so you do not lose existing traffic.</p>
+
+<h2>Step 8: Support and improvement</h2>
+<p>A website is not finished at launch. Plan for updates, backups, security checks, small content changes and ongoing SEO. Ask what support is included after launch and for how long, and who owns the code, domain and hosting accounts. You should always keep ownership of your own domain and website files.</p>
+
+<h2>How long does it take?</h2>
+<p>It depends on the size and complexity. A small business website may take a few weeks, while an online store or a custom platform can take longer. Delays are usually caused by slow feedback or content that arrives late, so prepare your text, images and logo early.</p>
+
+<h2>What does it cost?</h2>
+<p>Prices vary widely with the number of pages, features, design work and the team you hire. Be careful with quotes that are far cheaper than everyone else's, and ask exactly what is included: design, development, mobile version, SEO setup, support and revisions. Compare the scope, not just the price. Our article on <a href="/blog/digital-marketing-cost-pakistan">digital marketing costs in Pakistan</a> gives more pricing context.</p>
+
+<h2>Questions to ask before hiring</h2>
+<ul>
+<li>Can you show similar websites you have built?</li>
+<li>Who will design and who will develop, and will I speak to them directly?</li>
+<li>What technology will you use, and why?</li>
+<li>What is included in the price, and what costs extra?</li>
+<li>Do I own the code, domain and hosting?</li>
+<li>What support is included after launch?</li>
+<li>Is SEO setup included?</li>
+</ul>
+
+<h2>Planning a custom website?</h2>
+<p>Ratech Global builds fast, SEO-ready websites for businesses in Pakistan, the UAE, Saudi Arabia and Qatar. See our <a href="/services/web-development">web development service</a> or <a href="/consultation">book a free consultation</a> and we will tell you what your project needs and what to expect.</p>
+`,
+  },
+    {
     slug: "geo-checklist-get-recommended-by-chatgpt-gemini",
     title: "GEO Checklist: How to Get Your Business Recommended by ChatGPT, Gemini and Perplexity",
     excerpt: "More people now ask AI tools for recommendations. Here is a practical 9-point GEO checklist to help your business get mentioned, with honest expectations.",

@@ -1,5 +1,73 @@
 export const BLOG_POSTS = [
     {
+    slug: "geo-checklist-get-recommended-by-chatgpt-gemini",
+    title: "GEO Checklist: How to Get Your Business Recommended by ChatGPT, Gemini and Perplexity",
+    excerpt: "More people now ask AI tools for recommendations. Here is a practical 9-point GEO checklist to help your business get mentioned, with honest expectations.",
+    category: "GEO",
+    author: "Ratech Global Team",
+    date: "Nov 20, 2026",
+    readTime: "8 min",
+    image: "/images/blog-geo-checklist-get-recommended-by-chatgpt-gemini.png",
+    tags: ["GEO","AI Search","ChatGPT","AEO","SEO"],
+    content: `
+<p>More people now ask AI tools questions like "best digital marketing agency in Dubai" or "which dentist in Lahore is good for braces?" instead of scrolling through ten blue links. If the AI names a few businesses in its answer, you want to be one of them. This is what GEO (Generative Engine Optimization) is about. This checklist covers 9 practical steps you can start this week.</p>
+
+<h2>First, an honest expectation</h2>
+<p>Nobody can guarantee that ChatGPT, Gemini or Perplexity will recommend your business. These tools change often and do not publish exact rules. What you can do is make your business easy to find, easy to understand and easy to trust, on your own website and across the web. These steps also help normal Google SEO, so the effort is not wasted.</p>
+
+<h2>1. Say clearly who you are and what you do</h2>
+<p>AI tools build answers from text they can understand. Your homepage and service pages should state in plain words: your business name, what you offer, which city or country you serve and who it is for. "We provide innovative solutions" tells an AI nothing. "We are a digital marketing agency helping businesses in Pakistan and the Gulf with SEO and Meta Ads" does.</p>
+
+<h2>2. Answer real questions on your pages</h2>
+<p>Think about what a customer would type or ask: "How much does SEO cost?", "How long does a website take?" Add a short FAQ to your main pages with direct answers in the first sentence, then details. Clear question-and-answer content is easier for both Google and AI tools to pick up. Our guide to <a href="/blog/aeo-2026-guide-uae-pakistan-businesses">AEO in 2026</a> explains how to write these answers.</p>
+
+<h2>3. Keep your business details the same everywhere</h2>
+<p>Use the same business name, address (or service area), phone number and website on your site, Google Business Profile, Facebook, LinkedIn and directories. Mismatched details make it harder for search systems to be sure who you are.</p>
+
+<h2>4. Build a complete Google Business Profile</h2>
+<p>For local businesses, a verified and complete profile with correct categories, services, photos and real reviews is one of the strongest signals available. Reply to reviews, good and bad. See our <a href="/blog/local-seo-google-business-profile-uae-2026">Google Business Profile guide for the UAE</a>.</p>
+
+<h2>5. Get listed on trusted third-party sites</h2>
+<p>AI tools often rely on information from outside your own website. Real profiles on relevant directories and review platforms, industry publications and local business listings help. Choose genuine ones where your customers look, and avoid buying spammy links or fake reviews, which can hurt you.</p>
+
+<h2>6. Show real experience and proof</h2>
+<p>Case studies, real client feedback you have permission to use, and clear information about the people behind the business build trust. Only publish results you can back up. Made-up numbers or reviews damage trust with both people and search systems.</p>
+
+<h2>7. Use structured data (schema)</h2>
+<p>Schema markup is code that labels your content: this is an organization, this is a FAQ, this is a service, this is an article. It does not guarantee anything, but it helps search systems read your pages correctly. If you use Next.js or WordPress, plugins or a developer can add Organization, LocalBusiness and FAQ schema in a few hours.</p>
+
+<h2>8. Make sure AI crawlers can reach your site</h2>
+<p>Check your robots.txt file. If it blocks search or AI crawlers by mistake, your content may never be read. Also keep your pages fast, mobile friendly and free of heavy content that only loads after a click. If you do want to limit certain bots, that is your choice, but do it knowingly.</p>
+
+<h2>9. Publish helpful content regularly, and check what AI says</h2>
+<p>Write about the real questions your customers ask, in your own experience. Then test: ask ChatGPT, Gemini and Perplexity questions your customers would ask, using your city and service, and note which businesses appear and what sources are cited. Repeat every month. Those answers show you what content and listings you are missing.</p>
+
+<h2>Quick GEO checklist</h2>
+<ul>
+<li>Clear business description on homepage and service pages</li>
+<li>FAQ sections with direct answers</li>
+<li>Same name, address and phone everywhere</li>
+<li>Verified Google Business Profile with real reviews</li>
+<li>Genuine listings on trusted directories</li>
+<li>Real case studies and proof</li>
+<li>Schema markup added</li>
+<li>Crawlers not blocked</li>
+<li>Monthly check of AI answers for your keywords</li>
+</ul>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Promising clients "guaranteed ChatGPT rankings". Nobody can guarantee this.</li>
+<li>Stuffing keywords instead of writing clear answers.</li>
+<li>Ignoring Google SEO. Many AI answers draw on the same sources and signals.</li>
+<li>Buying fake reviews or mass directory links.</li>
+</ul>
+
+<h2>Want to know how visible your business is to AI search?</h2>
+<p>Ratech Global helps businesses in Pakistan, the UAE, Saudi Arabia and Qatar with SEO, AEO, GEO, Meta Ads, Google Ads and websites. <a href="/consultation">Book a free consultation</a> and we will review your website and listings and tell you what to fix first. You may also like <a href="/blog/geo-vs-aeo-vs-seo-difference">GEO vs AEO vs SEO: what is the difference?</a></p>
+`,
+  },
+    {
     slug: "lead-generation-strategy-not-working-8-reasons",
     title: "Why Your Lead Generation Strategy Isn't Working: 8 Common Reasons",
     excerpt: "Spending on ads, SEO or outreach but getting few good leads? Here are 8 common reasons a lead generation strategy fails, and how to fix each one.",

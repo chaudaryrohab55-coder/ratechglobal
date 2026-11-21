@@ -1,5 +1,77 @@
 export const BLOG_POSTS = [
     {
+    slug: "google-ads-management-pakistan-guide",
+    title: "Google Ads Management in Pakistan: 2026 Guide",
+    excerpt: "What does Google Ads management include, how do campaigns work, and what should you ask an agency? A practical 2026 guide for Pakistani businesses.",
+    category: "Google Ads",
+    author: "Ratech Global Team",
+    date: "Nov 21, 2026",
+    readTime: "8 min",
+    image: "/images/blog-google-ads-management-pakistan-guide.png",
+    tags: ["Google Ads","PPC","Pakistan","Paid Advertising","Lead Generation"],
+    content: `
+<p>Google Ads puts your business in front of people at the moment they search for what you sell. For many businesses in Pakistan it is one of the fastest ways to get enquiries, but it can also waste money quickly if the campaigns are set up badly. This guide explains what Google Ads management involves, how it works and what to check before you hire someone to run it.</p>
+
+<h2>What is Google Ads management?</h2>
+<p>Google Ads management means planning, creating, running and improving your paid campaigns on Google. You pay when someone clicks your ad (in most campaign types), so management is about getting the right people to click and then contact you. A manager or agency handles research, setup, daily optimisation and reporting, so you do not have to do it yourself.</p>
+
+<h2>Types of Google Ads campaigns</h2>
+<ul>
+<li><strong>Search ads:</strong> text ads shown when someone searches a phrase such as "AC repair in Lahore". Usually the best start for lead generation.</li>
+<li><strong>Performance Max:</strong> Google's automated campaign type that runs across Search, YouTube, Display, Maps and more. Useful for online stores, but it needs good data and tracking.</li>
+<li><strong>Display ads:</strong> banners shown on websites. Good for awareness and retargeting, usually weaker for direct leads.</li>
+<li><strong>YouTube ads:</strong> video ads for awareness and consideration.</li>
+<li><strong>Local and call campaigns:</strong> help local businesses get calls and visits.</li>
+</ul>
+
+<h2>What a good management service includes</h2>
+<ol>
+<li><strong>Goal and budget planning.</strong> What counts as a success: calls, forms, WhatsApp messages or sales? How much can you spend each month?</li>
+<li><strong>Keyword research.</strong> Finding the words your customers really search, and the negative keywords that stop wasted clicks.</li>
+<li><strong>Account and campaign structure.</strong> Grouping keywords and ads so each ad matches the search.</li>
+<li><strong>Ad writing.</strong> Clear headlines and descriptions that match what people want.</li>
+<li><strong>Landing page review.</strong> Ads send people to a page. If the page is slow or confusing, the money is wasted. See our guide on <a href="/blog/website-not-generating-leads-7-fixes">why websites fail to generate leads</a>.</li>
+<li><strong>Conversion tracking.</strong> Set up Google tag, Google Analytics 4 and phone or WhatsApp click tracking, so you know which clicks turn into enquiries.</li>
+<li><strong>Daily and weekly optimisation.</strong> Adjusting bids, pausing weak keywords, testing new ads.</li>
+<li><strong>Clear reporting.</strong> A simple monthly report with spend, clicks, enquiries and cost per enquiry, in language you understand.</li>
+</ol>
+
+<h2>How much should you spend?</h2>
+<p>There is no single right number. Your ad budget depends on your industry, competition, location and the value of one customer. Clicks cost more in competitive fields. A practical way to start is to set a monthly test budget you are comfortable with, run it for several weeks and measure the cost per enquiry. Management fees are separate from ad spend, so ask the agency to show both clearly. Our article on <a href="/blog/digital-marketing-cost-pakistan">digital marketing costs in Pakistan</a> has more context.</p>
+
+<h2>How long before you see results?</h2>
+<p>Ads can start showing the same day they are approved, but good results usually need a learning period. The first weeks are for collecting data, removing wasted keywords and improving ads. Be wary of anyone who promises fixed sales or leads in a fixed number of days. Results depend on your offer, price, website and market.</p>
+
+<h2>Common Google Ads mistakes</h2>
+<ul>
+<li><strong>Sending all traffic to the homepage</strong> instead of a page that matches the ad.</li>
+<li><strong>No conversion tracking</strong>, so nobody knows what works.</li>
+<li><strong>Using only broad keywords</strong> and paying for irrelevant clicks.</li>
+<li><strong>No negative keywords</strong>, such as "free", "jobs" or "course", when you sell a service.</li>
+<li><strong>Targeting too wide an area</strong> instead of the cities you can actually serve.</li>
+<li><strong>Changing everything too often</strong> and never letting data build up.</li>
+<li><strong>Slow follow-up</strong>. A lead who messages you should get a reply within minutes.</li>
+</ul>
+
+<h2>Google Ads or SEO: which first?</h2>
+<p>Google Ads brings faster traffic but stops when you stop paying. SEO takes longer but builds lasting visibility. Many businesses use both: ads for quick enquiries and SEO for the long term. Read <a href="/blog/seo-vs-paid-ads-which-first-2026">SEO vs paid ads: which first in 2026</a> to decide for your situation.</p>
+
+<h2>Questions to ask before hiring an agency</h2>
+<ul>
+<li>Will I own the Google Ads account and the data?</li>
+<li>How do you track calls, forms and WhatsApp enquiries?</li>
+<li>What is your management fee, and how is it separate from ad spend?</li>
+<li>How often will I receive reports, and what will they show?</li>
+<li>Who will actually manage my account?</li>
+<li>Do you work with businesses like mine?</li>
+<li>Do you promise results? (A good answer is no, with an explanation of what you will measure instead.)</li>
+</ul>
+
+<h2>Want help with Google Ads?</h2>
+<p>Ratech Global manages Google Ads and Meta Ads for businesses in Pakistan, the UAE, Saudi Arabia and Qatar, alongside SEO, AEO and websites. See our <a href="/services/google-ads">Google Ads management service</a> or <a href="/consultation">book a free consultation</a> and we will review your goals, budget and tracking, and tell you what to set up first.</p>
+`,
+  },
+    {
     slug: "bespoke-web-development-process-pakistan",
     title: "Bespoke Web Development Process in Pakistan: 8 Steps",
     excerpt: "Thinking of a custom website? Here is how a bespoke web development process works in Pakistan, step by step, from discovery to launch and support.",

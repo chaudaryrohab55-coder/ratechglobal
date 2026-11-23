@@ -1,5 +1,91 @@
 export const BLOG_POSTS = [
     {
+    slug: "international-seo-services-guide-2026",
+    title: "International SEO Services: A Practical 2026 Guide",
+    excerpt: "Want to rank in more than one country? Learn what international SEO includes, how hreflang and local content work, and what to ask an agency.",
+    category: "SEO",
+    author: "Ratech Global Team",
+    date: "Nov 23, 2026",
+    readTime: "8 min",
+    image: "/images/blog-international-seo-services-guide-2026.png",
+    tags: ["International SEO","Hreflang","Multilingual SEO","SEO","Global Business"],
+    content: `
+<p>If you sell to customers in more than one country, or in more than one language, normal SEO is not enough. International SEO is the work of helping search engines understand which version of your website is meant for which country and language, and making each version genuinely useful to the people there. This guide explains what international SEO services include and how to approach them.</p>
+
+<h2>What is international SEO?</h2>
+<p>International SEO optimises your website so that the right pages appear for the right audience: for example, UAE customers see your UAE page, Saudi customers see the Arabic version, and Pakistani customers see a page in their own context and currency. It combines technical setup (URL structure, hreflang), content (translation and localisation) and local signals (listings, links, reviews).</p>
+
+<h2>Do you need it?</h2>
+<p>International SEO is worth considering if:</p>
+<ul>
+<li>You already get enquiries or orders from other countries.</li>
+<li>You plan to enter a new market, such as the Gulf.</li>
+<li>Your customers speak more than one language, such as English and Arabic.</li>
+<li>Your prices, shipping or services change by country.</li>
+</ul>
+<p>If you serve only one city, focus on local SEO first. Our guide to <a href="/blog/local-seo-google-business-profile-uae-2026">Google Business Profile and local SEO in the UAE</a> is a good starting point.</p>
+
+<h2>Step 1: Choose your URL structure</h2>
+<p>There are three common ways to organise a multi-country site:</p>
+<ul>
+<li><strong>Country domains (ccTLDs)</strong>, such as example.ae and example.sa. They send a strong country signal but cost more to run and each domain builds authority separately.</li>
+<li><strong>Subdirectories</strong>, such as example.com/ae/ and example.com/sa/. They are easier to manage and share the strength of one domain. This is a popular choice for small and medium businesses.</li>
+<li><strong>Subdomains</strong>, such as ae.example.com. These work, but are treated more separately and are usually less simple than subdirectories.</li>
+</ul>
+<p>There is no single best option. Choose the one that matches your budget, your team and your plans.</p>
+
+<h2>Step 2: Set up hreflang correctly</h2>
+<p>Hreflang is a piece of code that tells Google which language and country each page is for, and which other versions exist. For example, an English page for the UAE and an Arabic page for Saudi Arabia can point to each other. Common mistakes include missing return links (each page must refer back to the others), wrong language or country codes, and pointing to pages that redirect or do not exist. Check it carefully after every change.</p>
+
+<h2>Step 3: Localise, do not just translate</h2>
+<p>Translation changes the words. Localisation adapts the whole page for the market: currency, phone formats, examples, offers, local terms, and the way people actually search. Arabic searches are not simply English searches translated word for word, so keyword research should be done in each language. For Arabic content, use a native speaker, not only machine translation. See our <a href="/blog/seo-in-saudi-arabia-arabic-english-guide">SEO in Saudi Arabia guide</a> for more on Arabic and English content.</p>
+
+<h2>Step 4: Do keyword research for each market</h2>
+<p>The same service may be searched differently in different countries. "Digital marketing agency" may be searched in English in Dubai and in Arabic in Riyadh. Look at each market's search terms, competitors and search intent separately, and write pages around them.</p>
+
+<h2>Step 5: Build local trust signals</h2>
+<p>Search engines look for signs that a business is relevant in a country: local contact details, local reviews, a Google Business Profile where you have a physical or service presence, listings in local directories, and links or mentions from local websites. Keep your business details consistent everywhere, and only collect genuine reviews.</p>
+
+<h2>Step 6: Check the technical basics</h2>
+<ul>
+<li>Fast loading, especially on mobile</li>
+<li>Right-to-left (RTL) layout for Arabic pages</li>
+<li>Separate, crawlable URLs for each language (not only a language switch that changes content without changing the URL)</li>
+<li>Canonical tags that do not point every version to a single page by mistake</li>
+<li>XML sitemap listing all versions</li>
+<li>Hosting that is quick for your target countries</li>
+</ul>
+
+<h2>Step 7: Track each market separately</h2>
+<p>In Google Search Console and Google Analytics 4, review traffic, queries and enquiries by country and language. This shows which markets are growing and which need work. Set realistic expectations: international SEO usually takes months, and nobody can honestly guarantee rankings in a specific country.</p>
+
+<h2>Common international SEO mistakes</h2>
+<ul>
+<li>Translating with software only and publishing without review</li>
+<li>Showing the same page to every country with no localisation</li>
+<li>Automatically redirecting visitors by location, so Google cannot reach every version</li>
+<li>Wrong or missing hreflang tags</li>
+<li>Duplicate content across country versions with no differences</li>
+<li>Ignoring local listings and reviews</li>
+</ul>
+
+<h2>What should an international SEO service include?</h2>
+<ul>
+<li>A market and competitor review for each target country</li>
+<li>URL structure and hreflang planning</li>
+<li>Keyword research in each language</li>
+<li>Content localisation, not just translation</li>
+<li>Technical SEO audit and fixes</li>
+<li>Local listings and review strategy</li>
+<li>Monthly reports by country</li>
+</ul>
+<p>Ask any agency to show how they will measure progress, and be careful of promises of fixed rankings. You can also read <a href="/blog/geo-vs-aeo-vs-seo-difference">GEO vs AEO vs SEO</a> to understand how AI search fits in.</p>
+
+<h2>Planning to reach customers in more than one country?</h2>
+<p>Ratech Global helps businesses in Pakistan, the UAE, Saudi Arabia and Qatar with SEO, AEO, GEO, Meta Ads, Google Ads and websites. See our <a href="/services/seo">SEO service</a> or <a href="/consultation">book a free consultation</a> and we will review your website and suggest which markets and steps to start with.</p>
+`,
+  },
+    {
     slug: "google-ads-management-pakistan-guide",
     title: "Google Ads Management in Pakistan: 2026 Guide",
     excerpt: "What does Google Ads management include, how do campaigns work, and what should you ask an agency? A practical 2026 guide for Pakistani businesses.",

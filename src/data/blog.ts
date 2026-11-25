@@ -1,5 +1,85 @@
 export const BLOG_POSTS = [
     {
+    slug: "website-speed-seo-core-web-vitals-guide",
+    title: "Website Speed and SEO: 9 Ways to Load Faster",
+    excerpt: "Slow websites lose visitors and can hurt SEO. Learn what Core Web Vitals mean, how to test your site and 9 practical ways to make it load faster.",
+    category: "Web Development",
+    author: "Ratech Global Team",
+    date: "Nov 25, 2026",
+    readTime: "8 min",
+    image: "/images/blog-website-speed-seo-core-web-vitals-guide.png",
+    tags: ["Website Speed","Core Web Vitals","Technical SEO","Web Development","SEO"],
+    content: `
+<p>People leave slow websites. Many of your visitors, especially in Pakistan and the Gulf, open your site on a phone with an average connection, and if the page takes too long they simply go back to Google. Speed also forms part of the page experience signals that search engines look at, so a faster site can help both users and SEO. Here is what to measure and 9 practical ways to improve it.</p>
+
+<h2>Does speed really affect SEO?</h2>
+<p>Google has said that page experience, including Core Web Vitals, is one of many ranking signals. It is not the strongest one: a fast page with weak content will not beat a slower page that answers the question much better. But speed still matters in two ways: it can help you in close competition, and it improves what happens after the click, since faster pages usually keep more visitors and get more enquiries. So treat speed as a quality and conversion issue as well as an SEO one.</p>
+
+<h2>What are Core Web Vitals?</h2>
+<p>Core Web Vitals are three measurements Google uses to describe real user experience:</p>
+<ul>
+<li><strong>LCP (Largest Contentful Paint):</strong> how fast the main content, such as the big image or heading, appears. A good result is 2.5 seconds or less.</li>
+<li><strong>INP (Interaction to Next Paint):</strong> how quickly the page reacts when someone taps or clicks. A good result is 200 milliseconds or less.</li>
+<li><strong>CLS (Cumulative Layout Shift):</strong> how much the page jumps around while loading. A good result is 0.1 or less.</li>
+</ul>
+
+<h2>How to test your website</h2>
+<ol>
+<li><strong>PageSpeed Insights</strong> (free, from Google): enter your URL and test mobile first. It shows your Core Web Vitals and a list of fixes.</li>
+<li><strong>Google Search Console:</strong> open the Core Web Vitals report to see which groups of pages are good, need improvement or are poor, based on real visitors. Small or new sites may not have enough data yet, and that is normal.</li>
+<li><strong>Test on a real phone</strong> using mobile data, not only office wifi.</li>
+</ol>
+<p>Test several important pages, not just the homepage: a service page, a blog post and your contact page.</p>
+
+<h2>9 ways to make your website faster</h2>
+
+<h3>1. Compress and resize images</h3>
+<p>Large images are the most common reason for slow pages. Do not upload a 4000-pixel photo if it displays at 800 pixels. Resize it and compress it, and use modern formats such as WebP or AVIF where possible. If your site uses Next.js, its Image component can resize and serve modern formats automatically.</p>
+
+<h3>2. Lazy-load images below the fold</h3>
+<p>Images that are far down the page do not need to load immediately. Lazy loading loads them only when the visitor scrolls near them. Do not lazy-load your main hero image, since that can slow the LCP.</p>
+
+<h3>3. Choose fast, reliable hosting</h3>
+<p>Cheap, overloaded hosting makes every page slow. If most of your customers are in the Gulf or Pakistan, use hosting or a CDN with servers close to them. Platforms like Vercel and Cloudflare serve pages from locations around the world.</p>
+
+<h3>4. Use a CDN and caching</h3>
+<p>A content delivery network keeps copies of your files in many places so they reach visitors faster. Caching lets returning visitors reuse files instead of downloading them again.</p>
+
+<h3>5. Reduce and defer JavaScript</h3>
+<p>Too many scripts, such as chat widgets, tracking tools, sliders and unused plugins, slow the page and delay interaction. Remove what you do not need and load non-essential scripts later. This helps INP in particular.</p>
+
+<h3>6. Limit fonts</h3>
+<p>Each font style adds a file to download. Use one or two font families, only the weights you need, and display text with a fallback font while the custom font loads.</p>
+
+<h3>7. Reserve space for images, ads and embeds</h3>
+<p>Set width and height for images and embedded content so the layout does not jump when they load. This prevents bad CLS, the annoying shift where a button moves just as you tap it.</p>
+
+<h3>8. Minify code and remove unused CSS</h3>
+<p>Minifying removes extra spaces and comments from CSS and JavaScript files. Modern build tools do this automatically. On WordPress, remove plugins you do not use, because each one can add code to every page.</p>
+
+<h3>9. Keep the page simple</h3>
+<p>Autoplay videos, huge sliders, animations on every section and popups all cost speed. Ask whether each element helps the visitor take action. A clear, simple page usually converts better and loads faster. If your site is attracting visitors but not enquiries, also read <a href="/blog/website-not-generating-leads-7-fixes">7 fixes for a website that does not generate leads</a>.</p>
+
+<h2>A simple speed checklist</h2>
+<ul>
+<li>Test your top pages in PageSpeed Insights (mobile)</li>
+<li>Compress and resize all large images</li>
+<li>Lazy-load below-the-fold images</li>
+<li>Use good hosting and a CDN</li>
+<li>Remove unused scripts and plugins</li>
+<li>Limit fonts</li>
+<li>Set image dimensions to avoid layout shifts</li>
+<li>Re-test after each change and note the difference</li>
+</ul>
+
+<h2>Be realistic</h2>
+<p>A perfect 100 score is not the goal, and test scores vary between runs. Aim for a genuinely fast experience for real visitors, then focus on content, local signals and links, which usually matter more for rankings. You can also read about <a href="/blog/bespoke-web-development-process-pakistan">the custom web development process in Pakistan</a> to see where speed fits when a website is built.</p>
+
+<h2>Need help with a slow website?</h2>
+<p>Ratech Global builds fast, SEO-ready websites and fixes technical SEO for businesses in Pakistan, the UAE, Saudi Arabia and Qatar. See our <a href="/services/web-development">web development service</a> or <a href="/consultation">book a free consultation</a> and we will test your site and tell you what to fix first.</p>
+`,
+  },
+    {
     slug: "meta-ads-vs-google-ads-which-is-better",
     title: "Meta Ads vs Google Ads: Which Should You Use?",
     excerpt: "Not sure whether to spend on Meta Ads or Google Ads? Compare how each works, who each suits, and how to choose or combine them for your business.",

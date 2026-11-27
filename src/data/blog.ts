@@ -1,5 +1,89 @@
 export const BLOG_POSTS = [
     {
+    slug: "real-estate-seo-property-enquiries-pakistan-gulf",
+    title: "Real Estate SEO: Get More Property Enquiries",
+    excerpt: "A practical SEO guide for real estate agents and property dealers in Pakistan and the Gulf: Google Business Profile, area pages, listings, reviews and more.",
+    category: "Local SEO",
+    author: "Ratech Global Team",
+    date: "Nov 27, 2026",
+    readTime: "8 min",
+    image: "/images/blog-real-estate-seo-property-enquiries-pakistan-gulf.png",
+    tags: ["Real Estate SEO","Local SEO","Property Marketing","Google Business Profile","Pakistan","Gulf"],
+    content: `
+<p>When someone wants to buy, rent or sell a property, they usually start on Google: "property dealer in DHA Lahore", "apartments for sale in Dubai Marina", "real estate agent in Riyadh". If your agency or your listings do not appear, those enquiries go to someone else. Here is a practical SEO plan for real estate agents and property dealers in Pakistan and the Gulf, with honest expectations.</p>
+
+<h2>Why SEO matters for real estate</h2>
+<p>Property is a high-value decision, and buyers research before they call. Paid portals and social media can bring enquiries, but they are crowded and you pay for every lead. SEO helps build visibility that keeps working: your own website and Google profile show up when people search for your area and service. Results take time, and nobody can honestly guarantee rankings, but the groundwork improves every other channel too.</p>
+
+<h2>1. Set up a complete Google Business Profile</h2>
+<p>For local searches like "property dealer near me", your Google Business Profile often appears in the map results before any website. To set it up properly:</p>
+<ul>
+<li>Verify your profile and choose the right main category, such as "Real estate agency".</li>
+<li>Add accurate address (or service area), phone, WhatsApp, website and opening hours.</li>
+<li>Describe your services: buying, selling, renting, property management.</li>
+<li>Upload real photos of your office, team and properties.</li>
+<li>Post updates regularly, such as new listings and market news.</li>
+</ul>
+<p>See our <a href="/blog/local-seo-google-business-profile-uae-2026">Google Business Profile guide for the UAE</a> for more detail, and our <a href="/blog/google-maps-seo-shops-pakistan-more-calls">Google Maps SEO guide for shops in Pakistan</a>, which applies to property offices too.</p>
+
+<h2>2. Collect genuine reviews</h2>
+<p>Trust is everything in property. Ask happy clients to leave an honest review after a completed deal, and reply to every review, positive or negative. Never buy fake reviews or offer rewards for positive ones. It breaks Google's rules and can damage your profile.</p>
+
+<h2>3. Build a clear, fast website</h2>
+<p>Many property dealers rely only on Facebook pages or portals. Your own website gives you control. It should have:</p>
+<ul>
+<li>A clear homepage that says who you are, which areas you serve and how to contact you</li>
+<li>Separate pages for each service (buy, sell, rent) and each main area or project you work in</li>
+<li>Property listing pages with real photos, price, size, location and a contact button</li>
+<li>A fast, mobile-friendly design, since most buyers browse on phones. See our <a href="/blog/website-speed-seo-core-web-vitals-guide">website speed guide</a></li>
+</ul>
+
+<h2>4. Create area and project pages</h2>
+<p>People search by location. A page about "Property for sale in Bahria Town Rawalpindi" or "Apartments in Business Bay, Dubai" can match those searches better than a general homepage. For each page, include honest local information: what the area is like, typical property types, nearby services and how you can help. Do not copy descriptions from other websites, and do not publish pages for areas you do not actually work in.</p>
+
+<h2>5. Write helpful content</h2>
+<p>Blog posts and guides answer questions buyers already have:</p>
+<ul>
+<li>"How to buy a plot safely in Pakistan: documents to check"</li>
+<li>"Renting vs buying in Dubai: what to consider"</li>
+<li>"Steps to buy property in Saudi Arabia as an investor"</li>
+</ul>
+<p>Write only what you genuinely know, and check legal and tax details with current official sources, since rules change and differ by country. Helpful content builds trust and brings visitors earlier in their decision, so they remember you when they are ready to act.</p>
+
+<h2>6. Add structured data</h2>
+<p>Schema markup helps search engines understand your business and listings. For real estate, useful types include LocalBusiness or RealEstateAgent for your agency, and FAQ schema for questions you answer. It does not guarantee anything, but it makes your pages clearer to read.</p>
+
+<h2>7. Keep your details consistent everywhere</h2>
+<p>Use the same business name, phone number and address on your website, Google profile, Facebook, directories and listing platforms. Consistency helps search engines trust your information.</p>
+
+<h2>8. Make it easy to contact you</h2>
+<p>A visitor who is ready to ask a question should be able to do it in one tap: a WhatsApp button, a call button and a short enquiry form. Reply fast. A property enquiry that waits a day often goes to a competitor. Our guide on <a href="/blog/click-to-whatsapp-ads-guide-uae-pakistan">Click-to-WhatsApp ads</a> shows how to combine ads with WhatsApp enquiries.</p>
+
+<h2>9. For Saudi Arabia and the Gulf: think bilingual</h2>
+<p>If you target Saudi customers, many search in Arabic. Having Arabic pages written by a native speaker, in addition to English, can widen your reach. Read our <a href="/blog/seo-in-saudi-arabia-arabic-english-guide">SEO in Saudi Arabia guide</a> to see how Arabic and English content work together. Also follow local advertising and licensing rules for property marketing in your country.</p>
+
+<h2>10. Track what works</h2>
+<p>Use Google Search Console to see which searches bring visitors, and Google Analytics 4 to see which pages lead to calls and form submissions. Track calls and WhatsApp clicks too. Review monthly and improve the pages that already get impressions.</p>
+
+<h2>Real estate SEO checklist</h2>
+<ul>
+<li>Verified Google Business Profile with correct category</li>
+<li>Genuine reviews and replies</li>
+<li>Fast, mobile-friendly website</li>
+<li>Pages for services and areas you really work in</li>
+<li>Listings with real photos and details</li>
+<li>Helpful guides for buyers and sellers</li>
+<li>Schema markup</li>
+<li>Same business details everywhere</li>
+<li>WhatsApp, call and form buttons</li>
+<li>Monthly tracking</li>
+</ul>
+
+<h2>Want more property enquiries from Google?</h2>
+<p>Ratech Global helps businesses in Pakistan, the UAE, Saudi Arabia and Qatar with SEO, AEO, GEO, Meta Ads, Google Ads and websites. See our <a href="/services/seo">SEO service</a> or <a href="/consultation">book a free consultation</a> and we will review your website and Google profile and tell you what to fix first.</p>
+`,
+  },
+    {
     slug: "website-speed-seo-core-web-vitals-guide",
     title: "Website Speed and SEO: 9 Ways to Load Faster",
     excerpt: "Slow websites lose visitors and can hurt SEO. Learn what Core Web Vitals mean, how to test your site and 9 practical ways to make it load faster.",

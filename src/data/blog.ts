@@ -1,5 +1,86 @@
 export const BLOG_POSTS = [
     {
+    slug: "instagram-marketing-small-business-pakistan",
+    title: "Instagram Marketing for Small Business in Pakistan",
+    excerpt: "A practical Instagram marketing guide for small businesses in Pakistan: profile setup, content ideas, Reels, hashtags, DMs and how to turn followers into customers.",
+    category: "Social Media",
+    author: "Ratech Global Team",
+    date: "Nov 28, 2026",
+    readTime: "8 min",
+    image: "/images/blog-instagram-marketing-small-business-pakistan.png",
+    tags: ["Instagram Marketing","Social Media","Small Business","Pakistan","Reels"],
+    content: `
+<p>Instagram is where many customers in Pakistan discover shops, salons, clothing brands, food businesses and service providers. But posting random photos rarely brings sales. This guide explains how a small business can use Instagram in a simple, consistent way to build trust and get orders and enquiries, without fake followers or empty promises.</p>
+
+<h2>1. Set up a clear business profile</h2>
+<p>Your profile is your shopfront. Before posting anything, make sure it explains who you are in a few seconds:</p>
+<ul>
+<li><strong>Use a Business or Creator account</strong> to get insights and contact buttons.</li>
+<li><strong>Profile photo:</strong> your logo, clearly visible in a small circle.</li>
+<li><strong>Name field:</strong> brand name plus what you do, for example "Ra Goods | Hair and Skin Care", because this field is searchable.</li>
+<li><strong>Bio:</strong> what you sell, where you deliver or serve, and one clear action, such as "Order on WhatsApp".</li>
+<li><strong>Link:</strong> your website or WhatsApp link.</li>
+<li><strong>Highlights:</strong> save important stories such as Prices, Reviews, Delivery and How to Order.</li>
+</ul>
+
+<h2>2. Decide what you want Instagram to do</h2>
+<p>Pick one main goal for the next three months: more WhatsApp enquiries, more website visits, more walk-ins or more orders. Everything you post should support it.</p>
+
+<h2>3. Plan content in simple pillars</h2>
+<p>Instead of guessing every day, choose 3-4 types of content and rotate them:</p>
+<ul>
+<li><strong>Products or services:</strong> clear photos and short videos showing what you offer.</li>
+<li><strong>Proof:</strong> real customer messages or photos, shared with permission. Never invent reviews.</li>
+<li><strong>Education:</strong> tips related to your business, such as how to choose a product or how to use it safely.</li>
+<li><strong>Behind the scenes:</strong> packing orders, your team, your workshop, your process.</li>
+<li><strong>Offers and announcements:</strong> new arrivals, limited offers, delivery updates.</li>
+</ul>
+
+<h2>4. Use Reels, but keep them simple</h2>
+<p>Short videos often reach people who do not follow you yet. You do not need a studio: a phone, natural light and clear audio are enough. Good Reel ideas include before and after (where honest), unboxing, a quick tip, a day in your shop and answering a common customer question. Start with the main point in the first couple of seconds, add captions because many people watch with the sound off, and end with a clear action.</p>
+
+<h2>5. Write captions that lead to action</h2>
+<p>A caption should explain the value and then tell people what to do next: "Message us on WhatsApp to order", "Save this post for later", "Comment your city and we will tell you the delivery time." Keep sentences short and write the way your customers speak, in English, Urdu or Roman Urdu.</p>
+
+<h2>6. Use hashtags and keywords sensibly</h2>
+<p>Use a small number of relevant hashtags (for example your product, your city and your niche) rather than long lists of unrelated ones. Also use natural keywords in your name, bio and captions, since Instagram search reads them. Avoid banned or spammy hashtags.</p>
+
+<h2>7. Respond to DMs and comments quickly</h2>
+<p>Many Pakistani customers ask prices and details in direct messages. Reply fast, be polite, and give the information clearly. Set up saved replies for common questions such as price, delivery and location. A quick reply often decides whether the customer buys from you or the next page. If your customers prefer WhatsApp, see our guide to <a href="/blog/click-to-whatsapp-ads-guide-uae-pakistan">Click-to-WhatsApp ads</a>.</p>
+
+<h2>8. Post consistently</h2>
+<p>Consistency matters more than perfection. A realistic plan for a small business is three to five posts or Reels per week plus regular stories, using a content calendar so you are not deciding at the last minute. Check your Instagram Insights every month to see which posts bring the most reach, saves and profile visits, and make more of those.</p>
+
+<h2>9. Consider paid promotion once the basics work</h2>
+<p>Boosting posts or running Meta Ads can help you reach new people, but ads work best when your profile, offer and replies are already in good shape. Start with a small test budget, track results, and avoid promises of guaranteed sales. Read our comparison of <a href="/blog/meta-ads-vs-google-ads-which-is-better">Meta Ads vs Google Ads</a> and our guide to <a href="/blog/boost-roas-meta-ads-2026-best-practices">improving ROAS on Meta Ads</a> before you spend.</p>
+
+<h2>10. Connect Instagram to your website and Google</h2>
+<p>Social media works better when people can verify you elsewhere. Link your website in your bio, add your Instagram link to your website and Google Business Profile, and keep your business name and contact details the same everywhere. A real example is how salons combine Instagram with local search, explained in our <a href="/blog/salon-marketing-pakistan-more-bookings">salon marketing guide</a>.</p>
+
+<h2>Common Instagram mistakes</h2>
+<ul>
+<li>Buying followers or likes. They do not buy from you and can hurt your reach.</li>
+<li>Posting only discounts and never showing trust or value.</li>
+<li>Poor-quality photos and unclear product details.</li>
+<li>No call to action in posts or bio.</li>
+<li>Slow replies to messages.</li>
+<li>Copying other brands' photos or captions.</li>
+<li>Giving up after two weeks. Results build over months.</li>
+</ul>
+
+<h2>A simple 30-day plan</h2>
+<ol>
+<li><strong>Week 1:</strong> fix your profile, bio, highlights and pin your best three posts.</li>
+<li><strong>Week 2:</strong> post three times, including one Reel, and reply to every message within the day.</li>
+<li><strong>Week 3:</strong> add customer proof and an educational post; test different Reel ideas.</li>
+<li><strong>Week 4:</strong> review Insights, repeat what worked, and decide whether to test a small ad.</li>
+</ol>
+
+<h2>Want help with social media?</h2>
+<p>Ratech Global helps businesses in Pakistan, the UAE, Saudi Arabia and Qatar with social media, Meta Ads, SEO and websites. See our <a href="/services/social-media">social media service</a> or <a href="/consultation">book a free consultation</a> and we will review your profile and suggest what to improve first.</p>
+`,
+  },
+    {
     slug: "real-estate-seo-property-enquiries-pakistan-gulf",
     title: "Real Estate SEO: Get More Property Enquiries",
     excerpt: "A practical SEO guide for real estate agents and property dealers in Pakistan and the Gulf: Google Business Profile, area pages, listings, reviews and more.",
